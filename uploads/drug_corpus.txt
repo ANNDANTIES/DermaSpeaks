@@ -1,0 +1,1469 @@
+Pneumococcal Vac Polyvalent	PNEU25I	25mcg/0.5mL Vial	VIAL	IM
+Bisacodyl	BISA5	5 mg Tab	TAB	PO
+Bisacodyl	BISA10R	10mg Suppository	SUPP	PR
+Senna	SENN187	1 Tablet	TAB	PO
+Docusate Sodium (Liquid)	DOCU100L	100mg UD Cup	UDCUP	PO
+Heparin	HEPA5I	5000 Units / mL- 1mL Vial	mL	SC
+Simvastatin	SIMV10	10mg Tablet	TAB	PO
+Aspirin	ASA81	81mg Tab	TAB	PO
+Donepezil	DONE5	5mg Tablet	TAB	PO
+Gabapentin	GABA100	100mg Capsule	CAP	PO
+Namenda	MEMA5	5mg Tablet	TAB	ORAL
+Tolterodine	TOLT1	1mg Tablet	TAB	PO
+Metoprolol Succinate XL	TOPR25	25mg XL Tab	TAB	PO
+Tamsulosin	TAMS.4	0.4mg Capsule	CAP	PO
+Docusate Sodium	DOCU100	100mg Capsule	CAP	PO
+Sodium Chloride 0.9%  Flush	NACLFLUSH	Syringe	SYR	IV
+Guaifenesin	GUAI10	10mL Cup	UDCUP	PO
+Albuterol Inhaler	ALBU17H	8 g Inhaler	INH	IH
+Amlodipine	AMLO5	5mg Tablet	TAB	PO
+Finasteride	FINA5	5mgTablet	TAB	PO
+Levothyroxine Sodium	LEVO75	75mcg Tab	TAB	PO
+Tiotropium Bromide	TIOT	18mcg Capsule-Inhalation Device	CAP	IH
+Aspirin	ASA325	325mg Tablet	TAB	PO
+Azithromycin	ZITHR250	250 mg Tab	TAB	PO
+PredniSONE	PRED20	20 mg Tablet	TAB	PO
+Sodium Chloride Nasal	SODI65S	45mL Bottle	SPRY	NU
+Heparin Flush (10 units/ml)	HEPA10SYR	10 Units/mL - 5 mL Syringe	SYR	IV
+Multivitamins	MVI	1 Tablet	TAB	PO
+Ferrous Sulfate	FERR325	325 mg Tablet	TAB	PO
+Ipratropium Bromide Neb	IPRA2H	2.5mL Vial	VIAL	IH
+Albuterol 0.083% Neb Soln	ALBU3H	0.083%;3mL Vial	VIAL	IH
+Sertraline	SERT100	100mg Tablet	TAB	PO
+Simvastatin	SIMV40	40mg Tablet	TAB	PO
+Levothyroxine Sodium	LEVO100	100mcg Tablet	TAB	PO
+Allopurinol	ALLO100	100mg Tab	TAB	PO
+Pantoprazole	PANT40	40mg Tablet	TAB	PO
+Furosemide	FURO40I	40mg/4mL Vial	VIAL	IV
+Carvedilol	CARV3125	3.125mg Tablet	TAB	PO
+Metoprolol Tartrate	METO25	25mg Tablet	TAB	PO
+Metoprolol Tartrate	METO5I	5mg/5mL Vial	VIAL	IV
+Lactulose	LACT30L	20g/30mL Cup	UDCUP	PO
+Rifaximin	RIFA200	200mg Tablet	TAB	PO
+Fentanyl Citrate	FENT2.550	2.5mg/50mL Solution	BAG	IV DRIP
+Midazolam	MIDA100	100mg/100mL NS	BAG	IV DRIP
+Propofol	PROP100IG	1000mg/100mL Vial	VIAL	IV DRIP
+Atropine Sulfate	ATRO1I	1mg/10mL Syringe	SYR	IV
+Chlorhexidine Gluconate 0.12% Oral Rinse	CHLO15L	15ml Cup	UDCUP	ORAL
+Ipratropium Bromide MDI	IPRAPF	12.9g Inhaler	INH	IH
+Albuterol Inhaler	PROAIR8.5H	8.5 g Inhaler	INH	IH
+Morphine Sulfate	MORP2I	2mg Syringe	SYR	IV
+1/2 NS	NS451000	1000mL Bag	mL	IV
+Vial	VIAL	Send Vial	VIAL	IV
+0.9% Sodium Chloride	NS500	500mL Bag	mL	IV
+Iso-Osmotic Dextrose	VANCOBASE	200ml Bag	mL	IV
+0.9% Sodium Chloride (Mini Bag Plus)	NS/MBP100I	100mL Bag	BAG	IV
+NS	METRBASE	100ml	mL	IV
+5% Dextrose	D5W100	100mL Bag	mL	IV DRIP
+5% Dextrose	D5W250	250mL Bag	mL	IV DRIP
+0.9% Sodium Chloride	NS1000	1000mL Bag	BAG	IV
+D5W	MORPD5W	100mL Bottle	BTL	IV DRIP
+Pantoprazole Sodium	PANT40I	40mg Vial	VIAL	IV
+Vancomycin	VANC1F	1g Frozen Bag	BAG	IV
+CefePIME	CEFE2I	2g Vial	mL	IV
+MetRONIDAZOLE (FLagyl)	METR500PM	500mg Premix Bag	BAG	IV
+CefePIME	CEFE1I	1g Vial	mL	IV
+Furosemide	FURO100I	100mg/10mL Vial	VIAL	IV DRIP
+Norepinephrine	LEVO4I	4mg/4mL Amp	AMP	IV DRIP
+Morphine Sulfate	MORP100PM	100mg/100mL Premix	BTL	IV DRIP
+Oxycodone-Acetaminophen	PERC	5mg/325mg Tablet	TAB	PO
+Paroxetine	PARO10	10mg Tablet	TAB	PO
+Ascorbic Acid	ASCO500	500 mg Tab	TAB	PO
+Creon 10	CREO10	1 Capsule	CAP	PO
+Acetaminophen	ACET325	325mg Tablet	TAB	PO
+Ondansetron	ONDAN4I	2mg/mL-2mL	VIAL	IV
+DiphenhydrAMINE	DIPH25	25mg Cap	CAP	PO
+Ciprofloxacin HCl	CIPR500	500mg Tab	TAB	PO
+Polyethylene Glycol	GLYC17	17g Packet	PKT	PO
+Magnesium Sulfate	MAG2PM	2 g / 50 mL Premix Bag	BAG	IV
+Neutra-Phos	NEUT	Powder Packet	PKT	PO
+Morphine Sulfate IR	MORP15	15mg Tab	TAB	PO
+Acetylcysteine 20%	ACET20/4I	800mg/4ml Vial	VIAL	PO
+Morphine Sulfate IR	MORP30	30mg Tab	TAB	PO
+Morphine Sulfate	MORP4I	4mg Syringe	SYR	IV
+Albumin 25% (12.5g / 50mL)	ALBU25	25%-50mL	VIAL	IV
+Valsartan	VALS160	160mg Tablet	TAB	PO
+Calcium Carbonate	CAL1250	1250mg Tablet	TAB	PO
+Docusate Sodium	DOCU100L	100mg UD Cup	UDCUP	PO
+Morphine Sulfate	MORPIM	10mg Syringe	SYR	IV
+Miconazole Powder 2%	MICO2P	30g Bottle	BTL	TP
+Albumin 5% (25g / 500mL)	ALBU5500	500mL Vial	VIAL	IV
+Sodium Polystyrene Sulfonate	KAYE15L	15g/60mL Bottle	BTL	PO
+Calcium Gluconate	CALG1I	1g/10mL Vial	VIAL	IV
+Albumin 5% (12.5g / 250mL)	ALBU5250	250mL Vial	VIAL	IV
+D5 1/2NS	D545NS1000	1000mL Bag	mL	IV
+LR	LR1000	1000ml Bag	BAG	IV
+D5NS	D5NS1000	1000mL Bag	mL	IV
+SW	SW50	50 mL Bag	BAG	IV
+0.9% Sodium Chloride	NS250	250mL Bag	mL	IV
+NS	HESPBASE	500ml Bag	mL	IV
+Potassium Phosphate	KPHO45I	3mM/mL-15mL	mL	IV
+Hespan	HESP500I	500mL Bag	mL	IV
+Influenza Virus Vaccine	INFV	0.5mL Syringe	SYR	IM
+Dextrose 50%	DEX50SY	50mL Syringe	SYR	IV
+Calcitriol	CALC25	0.25 mcg Capsule	CAP	PO
+Benzonatate	BENZ100	100mg Capsule	CAP	PO
+Furosemide	FURO40	40mg Tablet	TAB	PO
+Spironolactone	SPIR25	25mg Tablet	TAB	PO
+Cyanocobalamin	CYAN500	500 mcg Tab	TAB	PO
+Isosorbide Mononitrate (Extended Release)	IMDU60	60mg ER Tablet	TAB	PO
+HydrALAzine	HYDZ50	50 mg Tab	TAB	PO
+Levofloxacin	LEV250	250mg Tablet	TAB	PO
+Olanzapine (Disintegrating Tablet)	OLAN5DTB	5mg Tablet	TAB	PO
+Heparin	HEPA5I	5000 Units / mL- 1mL Vial	mL	IV
+Cefpodoxime Proxetil	CEFP100	100mg Tablet	TAB	PO
+Haloperidol	HALD5I	5mg/mL Vial	VIAL	IV
+Olanzapine	OLAN2.5	2.5mg Tablet	TAB	PO
+OxycoDONE (Immediate Release) 	OXYC5	5mg Tablet	TAB	PO
+Glucagon	GLUC1I	1mg Vial	VIAL	IV
+Omeprazole	OMEP20	20mg Cap	CAP	PO
+5% Dextrose	D5W1000	1000mL Bag	mL	IV
+D5W	HEPBASE	HEPARIN BASE	mL	IV
+Heparin Sodium	HEPPREMIX	25,000 unit Premix Bag	BAG	IV
+Lisinopril	LISI20	20mg Tablet	TAB	PO
+Atropine Sulfate	ATRO1I	1mg/10mL Syinge	SYR	IV
+Glipizide	GLIP10	10MG TAB	TAB	PO
+Metoprolol	METO50	50mg Tab	TAB	PO
+Sevelamer	SEVE800	800mg Tab	TAB	PO
+Insulin	INSULIN	Dummy Pkg for POE pump and PHA SS ordering	VIAL	SC
+Pantoprazole	PANT40	40mg Tab	TAB	PO
+Acetaminophen	ACET325	325mg Tab	TAB	PO
+Magnesium Oxide	MAGO140	140mg Cap PPK	CAP	PO
+Docusate Sodium	DOCU100	100mg Cap	CAP	PO
+Senna	SENN187	1 TAB	TAB	PO
+Magnesium Sulfate	MAGS1I	1gm/2ml vial	ml	IV
+Linezolid	LINE600	600mg Tab	TAB	PO
+Potassium Chloride	KCL20P	20mEq Packet	PKT	PO
+Diphenhydramine HCl	DIPH25	25mg Cap	CAP	PO
+Zolpidem Tartrate	AMBI5	5mg Tab	TAB	PO
+Midazolam HCl	MIDA2I	2mg/2mL Vial	VIAL	IV
+Metronidazole	METR500	500MG TAB	TAB	PO
+Levofloxacin	LEV250	250mg Tab	TAB	PO
+Phytonadione	PHYT10I	10mg/mL Amp	AMP	SC
+Oxycodone-Acetaminophen	PERC	5mg/325mg Tab	TAB	PO
+Alteplase (Catheter Clearance)	ALTE1I	1mg/1mL Syringe	SYR	IV
+Warfarin	WARF2	2mg Tab	TAB	PO
+Moexipril HCl	MOEX7.5	7.5mg Tab	TAB	PO
+Sevelamer	SEVE400	400mg Tab	TAB	PO
+Aspirin	ASA325	325mg Tab	TAB	PO
+Atorvastatin	ATOR20	20mg Tab	TAB	PO
+Metoclopramide	METO10I	5mg/mL-2mL	VIAL	IV
+Potassium Chloride	MICROK10	10mEq ER Capsule	CAP	PO
+Ceftriaxone	CEFX1F	1g Frozen Bag	BAG	IV
+Metronidazole	METR500PM	500mg Premix Bag	BAG	IV
+Vancomycin HCl	VANCO10I	10g Vial	mg	IV
+Ampicillin Sodium	AMP2I	2g Vial	VIAL	IV
+Unasyn	UNAS3I	3g Vial	VIAL	IV
+Vancomycin HCl	VANC1F	1GM FROZ. BAG	BAG	IV
+Vancomycin HCl	VANC500I	500 mg Vial	VIAL	IV
+Iso-Osmotic Dextrose	FRBD50	50ml Bag	ml	IV
+NS	METRBASE	100ml	ml	IV
+D5W	D5W250	250mL Bag	ml	IV
+NS	NS50	50mL Bag	ml	IV
+NS	NS100	100mL Bag	ml	IV
+Iso-Osmotic Dextrose	VANCOBASE	200ml Bag	ml	IV
+Prochlorperazine	PROC10	10MG TAB	TAB	PO
+Naproxen	NAPR250	250MG TAB	TAB	PO
+Furosemide	FURO20	20mg Tab	TAB	PO
+Docusate Sodium	DOCU100	100MG CAP	CAP	PO
+Dronabinol	DRON25	2.5mg Cap	CAP	PO
+Tizanidine HCl	TIZA4	4mg Tablet	TAB	PO
+Heparin	HEPA5I	5000U/ML VIAL	ml	SC
+traMADOL	TRAM50	50mg Tab	TAB	PO
+Acetaminophen	ACET325	325MG TAB	TAB	PO
+Furosemide	FURO40	40MG TAB	TAB	PO
+Enoxaparin Sodium	LOVE40I	40mg Syringe	SYR	SC
+Ketorolac	KETR30I	30MG/ML VIAL	VIAL	IV
+Morphine Sulfate	MORP1-5	1-5mg Range	SYR	IV
+Cosyntropin	COSY25I	250mcg Vial	VIAL	IV
+Acetaminophen	APAP500	500mg Tab	TAB	PO
+Bisacodyl	BISA5	5MG TAB	TAB	PO
+Bisacodyl	BISA10R	10MG SUPP	SUPP	PR
+Lactulose	LACT30L	20GM/30ML CUP	UDCUP	PO
+Morphine Sulfate	MORP2I	2mg Syringe	SYR	SC
+Morphine Sulfate	MORP4I	4mg Syringe	SYR	SC
+Tizanidine HCl	TIZA2	2mg Tablet	TAB	PO
+Potassium Chloride	MICROK10	10mEq ER	CAP	PO
+Captopril	CAPT125	12.5MG TAB	TAB	PO
+Ipratropium Bromide MDI	IPRAPF	14.7g Inhaler	INH	IH
+D5W	D5W250	250mL Bag	ml	IV DRIP
+Cefazolin	CEFA1F	1g Froz.Bag	BAG	IV
+Phenylephrine HCl	PHEN10I	10MG/1ML VIAL	VIAL	IV DRIP
+Phenylephrine HCl	PHEN50I	50MG/5ML VIAL	VIAL	IV DRIP
+Heparin Flush CVL  (100 units/ml)	HEPA100SYR	100 Units/ml-5ml Syringe	SYR	IV
+Donepezil	DONE10	10mg Tab	TAB	PO
+Atorvastatin	ATOR40	40mg Tab	TAB	PO
+Artificial Tears	ARTTS	1.4%;15mL Bottle	DBTL	OU
+Docusate Sodium (Liquid)	DOCU100L	100MG UD CUP	UDCUP	PO
+Carbidopa-Levodopa (25-250)	SINE25250	25-250MG TAB	TAB	PO
+Albuterol	ALBU17H	17g Inhaler	INH	IH
+Senna	SENN5L	5ml Oral Syringe	SYR	NG
+Fentanyl Citrate	FENT2I	100mcg/2mL Amp	ml	IV
+Dexamethasone	DEXA4I	4mg/mL 1mL Vial	VIAL	IV
+Heparin	HEPA5I	5000 Units/ml- 1ml Vial	ml	SC
+Fludrocortisone Acetate	FLUD100	0.1MG TAB PPK	TAB	PO
+Lansoprazole Oral Suspension	LANS30L	30mg/10ml Oral Syringe	SYR	NG
+Clopidogrel Bisulfate	CLOP75	75mg Tab	TAB	PO
+Hydralazine HCl	HYDZ20I	20mg/mL Vial	VIAL	IV
+Metoprolol	METO5I	5mg/5mL Vial	VIAL	IV
+Diphenhydramine HCl	DIPH50I	50mg/mL Vial	VIAL	IV
+Insulin	INSULIN	Dummy Package for Sliding Scale	VIAL	SC
+Metoprolol	METO25	25mg Tablet	TAB	PO
+Isosorbide Mononitrate (Extended Release)	IMDU30	30mg ER Tab	TAB	PO
+Lisinopril	LISI5	5MG TAB	TAB	PO
+Miconazole Powder 2%	MICO2P	45g Bottle	BTL	TP
+Erythromycin 0.5% Ophth Oint	ERYT0.5EO	1GM UD TUBE	TUBE	OD
+Fentanyl Citrate	FENT50I	2500mcg/50mL Vial	VIAL	IV DRIP
+Norepinephrine	NORE800SYR	800MCG/50ML S	SYR	IV DRIP
+Norepinephrine	LEVO4I	4MG/4ML AMP	AMP	IV DRIP
+DOBUTamine	DOBPREM	250mg Premix	BAG	IV DRIP
+Levofloxacin	LEVO500PM	500mg Premix Bag	BAG	IV
+Potassium Chloride	KCL20PM	20mEq/50mL Premix	BAG	IV
+Hydrocortisone Na Succ.	HC100I	100mg/2mL Vial	VIAL	IV
+Humulin-R Insulin	INHRIV	100Units/mL; 10mL Vial	ml	IV DRIP
+Multivitamin IV	MVI10I	10 mL Vial	VIAL	IV
+Enalaprilat	ENAL25I	1.25MG/ML VL	VIAL	IV
+Potassium Chloride	KCL40I	2mEq/ml-20ml	ml	IV
+D5W	D5W1000	1000mL Bag	ml	IV
+Syringe	SYR60ML	60mL Syringe	SYR	IV DRIP
+NS	NS500	500mL Bag	ml	IV
+D5W	DOBUBASE	1 Bag	ml	IV DRIP
+Dextrose 5%	LEVOBASE2	100ml Bag	ml	IV
+SW	KCLBASE2	50ml Bag	ml	IV
+Syringe	HYDRSYR	Syringe	SYR	IV
+NS	NS100	100mL Bag	ml	IV DRIP
+Fat Emulsion 20%	INTR20/250I	250 mL Bag	BAG	IV
+Amino Acids 4.25% W/ Dextrose 5%	CLIN1000I	1000ml Bag	BAG	IV
+D5W	D5W50	50mL Bag	ml	IV
+D5W	HEPBASE	HEPARIN BASE	ml	IV
+D5NS	D5NS1000	1000mL Bag	ml	IV
+D5W	D5W500	500mL Bag	ml	IV
+Dextrose 5%	LEVOBASE	50mL Bag	ml	IV
+NS	NS1000	1000mL Bag	BAG	IV
+Iso-Osmotic Sodium Chloride	ISONACL	50ml Bag	ml	IV
+Heparin Sodium	HEPAPREMIX	25,000 unit Premix Bag	BAG	IV
+Azithromycin 	AZIT500I	500mg Vial	VIAL	IV
+Levofloxacin	LEVO250PM	250mg Premix Bag	BAG	IV
+Famotidine	FAMO20PM	20mg Premix Bag	BAG	IV
+Lansoprazole	LANS30L	30mg/10ml Oral Syringe	SYR	NG
+Erythromycin 0.5% Ophth Oint	ERYT0.5EO	1GM UD TUBE	TUBE	OS
+Aspirin	ASA300R	300mg Supp	SUPP	PR
+Olanzapine (Disintegrating Tablet)	OLAN5DTB	5mg Tab	TAB	PO
+Metoprolol	METO25	25mg Tablet	TAB	NG
+Metoprolol XL	TOPR25	25mg XL Tab	TAB	PO
+Metoprolol XL	TOPR100	100mg XL Tab	TAB	PO
+Metoprolol XL	TOPR50	50mg XL Tab	TAB	PO
+Atenolol	ATEN100	100MG TAB	TAB	PO
+Lisinopril	LISI5	5MG TAB	TAB	NG
+Docusate Sodium (Liquid)	DOCU100L	100MG UD CUP	UDCUP	NG
+Atorvastatin	ATOR80	80mg Tablet	TAB	NG
+Olanzapine	OLAN2.5	2.5mg Tab	TAB	PO
+Levofloxacin	LEV500	500mg Tab	TAB	PO
+Carbidopa-Levodopa (25-250)	SINE25250	25-250MG TAB	TAB	NG
+Neomycin-Polymyxin-Dexameth Ophth. Oint	MAXIEO	3.5g Tube	TUBE	OU
+Magnesium Sulfate	MAGS1I	1gm / 2 mL Vial	ml	IV
+Potassium Chloride	KCL20P	20mEq Packet	PKT	NG
+NS	NS250	250mL Bag	ml	IV
+Calcium Chloride	CALC100SI	1g/10mL Syringe	SYR	IV
+Atorvastatin	ATOR10	10mg Tablet	TAB	PO
+Gabapentin	GABA300	300mg Capsule	CAP	PO
+Carbidopa-Levodopa (10-100)	SINE10100	10-100 mg Tab	TAB	PO
+Insulin	INNHI	10mL Vial	mL	SC
+Hydrochlorothiazide	HCTZ25	25mg Tablet	TAB	PO
+Escitalopram Oxalate	ESCI10	10mg Tablet	TAB	PO
+Ketorolac	KETO15I	15mg/mL Vial	VIAL	IV
+Hydrocodone-Acetaminophen	VICODIN	5/500 Tablet	TAB	PO
+Lorazepam	LORA5	0.5mg Tablet	TAB	PO
+0.9% Sodium Chloride	NS100CG	100 mL Bag	BAG	IV
+SW	KCLBASE	100ml Bag	mL	IV
+Calcium Gluconate	CALCG2/100NS	2 g / 100 mL Premix Bag	BAG	IV
+Potassium Chloride	KCL10PM	10mEq/100mL Premix	BAG	IV
+Potassium Chloride	KCL40I	2mEq/mL-20mL	mL	IV
+Atorvastatin	ATOR10	10mg Tab	TAB	PO
+Dextrose 50%	DEX50SY	50ml Syringe	SYR	IV
+Prednisone	PRED20	20mg Tab	TAB	PO
+Potassium Phosphate	KPHO45I	3mM/mL-15mL	ml	IV
+Metformin	METF500	500mg Tab	TAB	PO
+Vitamin D	ERGO400T	400 UNIT TABLET	TAB	PO
+Fluticasone Propionate 110mcg	FLUT110H	7.9g Inhaler	INH	IH
+Calcium Carbonate	CALC500	500mg Tab	TAB	PO
+Famotidine	PEPC20	20 mg Tab	TAB	PO
+Alendronate Sodium	ALEN70	70mg Tab	TAB	PO
+Dexamethasone	DEXA4I	4MG/ML 1ML VIAL	VIAL	IV
+Albuterol Neb Soln	ALBU3H	0.083%;3mL Vial	VIAL	IH
+Prednisone	PRED10	10mg TAB	TAB	PO
+Levetiracetam	LEVE500	500mg Tab	TAB	PO
+Levetiracetam	LEVE250T	250mgTab	TAB	PO
+Zonisamide	ZONI25	25mg Capsule	CAP	PO
+Sodium Chloride	NACL1	1g Tab	TAB	PO
+Ampicillin	AMPI500	500MG CAP	CAP	PO
+Lactulose	LACT1000R	1000ml Bottle	BTL	PR
+Zonisamide	ZONI100	100mg Cap	CAP	PO
+Tuberculin Protein	PPD	0.1mL Syringe	SYR	ID
+Lactulose	LACT30L	20GM/30ML CUP	UDCUP	PR
+Mineral Oil	MINE30L	30mL Cup	UDCUP	PO
+Cephalexin	CEPH500	500MG CAP	CAP	PO
+Estrogens Conjugated	CONJ625V	42.5GM CREAM	TUBE	VG
+Nitrofurantoin (Macrodantin)	NITR50	50mg Cap	CAP	PO
+Hydrocortisone	HC5	5mg Tab PPK	TAB	PO
+Hydrocortisone	HYDR10	10MG TAB PPK	TAB	PO
+Heparin Flush CVL  (100 units/ml)	HEPA100SYR	100Units/mL-5mL Syringe	SYR	IV
+Heparin	HEPA5I	5000 Units / mL- 1mL Vial	ml	SC
+Morphine Sulfate	MORP50PCA	50mg/50mL Syringe	SYR	IVPCA
+Neostigmine	NEOSI	10mg/10mL Vial	VIAL	IV
+Glycopyrrolate	GLYCO4I	0.4mg/2mL Vial	VIAL	IV
+Magnesium Sulfate	MAGS1I	1g/2mL Vial	ml	IV
+Acetaminophen (Liquid)	ACET650L	650mg UD Cup	UDCUP	PO
+Acetaminophen	ACET650R	650mg Supp	SUPP	PR
+HydrALAZINE HCl	HYDZ10	10 mg Tab	TAB	IV
+Timolol Maleate 0.25%	TIMO25ES	5ml Bottle	DBTL	OU
+Brimonidine Tartrate 0.15% Ophth.	ALPH0.15O	5mL Dropper Bottle	DBTL	OU
+HydrALAZINE HCl	HYDZ20I	20mg/mL Vial	VIAL	IV
+Levothyroxine Sodium	LEVO25	25mcg Tablet	TAB	PO
+Prochlorperazine	COMP10I	10mg/2mL Vial	VIAL	IV
+Ursodiol	URSO300	300mg Cap	CAP	PO
+HYDROmorphone (Dilaudid)	HYDM4	4mg Tablet	TAB	PO
+Zolpidem Tartrate	AMBI5	5mg Tablet	TAB	PO
+Lorazepam	LORA2I	2mg/mL Syringe	mL	IV
+Meperidine	MEPE50I	50mg Syringe	mL	IV
+Levalbuterol HCl	LEVA0.63L	0.63 mg/3mL Neb	NEB	IH
+Hydromorphone	HYD12.5PCA	12.5mg/50mL Syringe	SYR	IVPCA
+Lansoprazole Oral Suspension	LANS30L	30mg/10mL Oral Syringe	SYR	J TUBE
+Oxycodone-Acetaminophen Elixir	ROXIOS	5mL Cup	UDCUP	PO
+Doxazosin	DOXA1	1mg Tablet	TAB	PO
+Folic Acid	FOLI1	1 mg Tab	TAB	PO
+Multivitamins	MVI	1 Capsule	CAP	PO
+Papain 2.5 % Solution	PAPAIN2	60ml Bottle	ml	J TUBE
+D5 1/2NS	D545NS1000	1000mL Bag	ml	IV
+NS	HESPBASE	500ml Bag	ml	IV
+Potassium Chl 20 mEq / 1000 mL D5 1/2 NS	KCL20/1000D51/2NS	1000 mL Bag	BAG	IV
+CefazoLIN	CEFA10I	10g Bulk vial	gm	IV
+Vancomycin HCl	VANC1F	1g Frozen Bag	BAG	IV
+Hespan	HESP500I	500mL BAG	ml	IV
+Fentanyl Citrate	FENT2I	100mcg/2mL Amp	mL	IV
+HYDROmorphone (Dilaudid)	HYDR1SYR	1mg/1mL Syringe	SYR	IV
+Labetalol	LABE100I	100 mg / 20 mL Vial	VIAL	IV
+Xopenex	LEVA0.63L	0.63 mg/3mL Neb	NEB	IH
+MetRONIDAZOLE (FLagyl)	METR500	500 mg Tab	TAB	PO
+HYDROmorphone (Dilaudid)	HYDR2	2mg Tablet	TAB	PO
+Potassium Chloride	POTA20	20 mEq SR Tablet	TAB	PO
+Ondansetron ODT	ONDA4ODT	4mg ODT Tab	TAB	PO
+Lorazepam	LORA1	1mg Tablet	TAB	PO
+Loperamide	LOPE2	2 mg Cap	CAP	PO
+Iso-Osmotic Dextrose	FRBD100	100ml Bag	mL	IV
+Potassium Chloride	KCL40I	2mEq/mL-20mL	ml	IV
+Potassium Chl 40 mEq / 1000 mL NS	KCL40/1000NS	1000 mL Bag	BAG	IV
+5% Dextrose	CIPROBASE	1 Bag	mL	IV
+SW	KCLBASE2	50ml Bag	mL	IV
+Iso-Osmotic Dextrose	FRBD50	50ml Bag	mL	IV
+Piperacillin-Tazobactam Na	ZOSY4FPB	4.5 g Frozen Bag	BAG	IV
+Potassium Chloride	KCL20I	2mEq/mL-10mL	mL	IV
+Ciprofloxacin IV	CIPR400PM	400mg Premix Bag	BAG	IV
+CeftriaXONE	CEFX1F	1g Frozen Bag	BAG	IV
+Ranitidine	RANI150	150mg Tablet	TAB	PO
+Aspirin EC	ASA81EC	81mg  EC Tab	TAB	PO
+Warfarin	WARF0	Check with MD for Dose	dose	PO
+Milk of Magnesia	MOM30L	30mL UD Cup	UDCUP	PO
+Sucralfate	CARA1	1g Tablet	TAB	NG
+Aspirin	ASA81	81mg Tab	TAB	NG
+Ranitidine	RANI150L	150mg UD Cup	UDCUP	NG
+Atorvastatin	ATOR20	20mg Tablet	TAB	PO
+GlipiZIDE	GLIP5	5 mg Tab	TAB	PO
+Amiodarone HCl	AMID200	200 mg Tab	TAB	PO
+Exelon	RIVA15	1.5mg Capsule	CAP	ORAL
+Warfarin	WARF1	1mg Tablet	TAB	PO
+D5W	NTGBASE	250mL Bottle	BTL	IV DRIP
+D5W	MILRBASE	100mL Bag	BAG	IV
+NS	NS250	250mL Bag	ml	IV DRIP
+D5W (EXCEL BAG)	D5W250E	250mL (EXCEL)	BAG	IV DRIP
+D5W	D5W100	100mL Bag	ml	IV
+D5W (EXCEL BAG)	D5W250E	250mL (EXCEL)	BAG	IV
+SW	KCLBASE	100ml Bag	ml	IV
+Nitroglycerin	NTG100PM	100MG/250 PM	BTL	IV DRIP
+Phenylephrine HCl	PHEN10I	10mg/1mL Vial	VIAL	IV DRIP
+Cefazolin	CEFA10I	10g Bulk vial	gm	IV
+Insulin Human Regular	INHRIV	100Units/mL; 10mL Vial	ml	IV DRIP
+Milrinone	MILR20PM	20mg/100mL Premix	BAG	IV
+NiCARdipine IV	NICA2.5I	2.5mg/mL;10mL Vial	ml	IV DRIP
+Amiodarone HCl	AMIO150I	150mg/3mL Vial	VIAL	IV DRIP
+Diltiazem	DILT500I	50mg/10mL Vial	VIAL	IV
+Amiodarone HCl	AMIO150I	150mg/3mL Vial	VIAL	IV
+Docusate Sodium (Liquid)	DOCU100L	100mg UD Cup	UDCUP	NG
+Insulin	INRHI	10mL Vial	ml	IV
+Amiodarone HCl	AMIO150I	150mg/3mL Vial	VIAL	IV BOLUS
+Adenosine	ADEN6I	6mg/2mL Vial	VIAL	IV
+Furosemide	FURO20	20mg Tablet	TAB	PO
+Oxycodone-Acetaminophen	ROXIOS	5mL Cup	UDCUP	PO
+Amiodarone HCl	AMIO150I	150MG/3ML VIAL	VIAL	IV
+Phenytoin Sodium	PHEN250I	250MG/5ML VIAL	VIAL	IV
+Metronidazole	METR500PM	500MG PREMIX	ml	IV
+Levofloxacin	LEVO500PM	500MG PM BAG	BAG	IV
+Potassium Phosphate	KPHO45I	3mmol/ml-15ml	ml	IV
+Morphine Sulfate	MORP100PM	100mg/100ml Premix	BTL	IV DRIP
+Lorazepam	LORA20I	20MG/10ML VIAL	ml	IV DRIP
+Pantoprazole	PANT40	40MG TAB	TAB	PO
+Lorazepam	LORA2I	2MG/ML SYR	ml	IV
+Lorazepam	LORA1	1MG TAB	TAB	PO
+Albuterol Neb Soln	ALBU3H	0.083%;3ML VL	VIAL	IH
+Ipratropium Bromide Neb	IPRA2H	2.5ML VIAL	VIAL	IH
+Aspirin EC	ASAEC325	325mg Tab	TAB	PO
+Carbidopa-Levodopa CR (25-100)	SINE25100	25-100MG TAB	TAB	PO
+Potassium Chloride	KCL20P	20MEQ PKT	PKT	PO
+Lacri-Lube Oint	DURA	3.5GM TUBE	TUBE	OU
+Lansoprazole Oral Solution	LANS30L	30mg/10ml Udcup	UDCUP	NG
+D5W (EXCEL BAG)	D5W250E	250ML (EXCEL)	BAG	IV
+NS        (Glass Bottle)	NS250G	250ML BTL	ml	IV
+NS	NS250	250ML BAG	ml	IV
+D5W	MORPD5W	100ml Bottle	BTL	IV DRIP
+D5W	D5W500	500ML BAG	ml	IV DRIP
+Insulin	GLAR100I	10mLVial	VIAL	SC
+Lorazepam	LORA2I	2mg/mL Syringe	ml	IV
+Iso-Osmotic Dextrose	FRBD100	100ml Bag	ml	IV
+D5W	D5W100	100mL Bag	ml	IV DRIP
+D5W	D5W25	25mL Bag	ml	IV
+Vial	VIAL	Send Vial	VIAL	SC
+Piperacillin-Tazobactam Na	ZOSY4FPB	4.5g Frozen Bag	BAG	IV
+Nafcillin	NAFC2F	2g Frozen Bag	BAG	IV
+Piperacillin-Tazobactam Na	ZOSY2.25I	2.25g Frozen Bag	BAG	IV
+Potassium Chloride	KCL20I	2mEq/mL-10mL	ml	IV
+AcetaZOLamide Sodium	ACE500I	500mg Vial	mg	IV
+Phenylephrine	PHEN10I	10mg/1mL Vial	VIAL	IV DRIP
+Epoetin Alfa	EPO4I	4000 Unit Vial	ml	SC
+Fentanyl Citrate	FENT2.5I	2.5mg/50mL Vial	ml	IV DRIP
+Atenolol	ATEN25	25 mg Tab	TAB	PO
+Calcium Carbonate	CALC500	500mg Tablet	TAB	PO
+Levothyroxine Sodium	LEVO50	50mcg Tablet	TAB	PO
+Lisinopril	LISI5	5mg Tablet	TAB	PO
+Acetaminophen w/Codeine	T3	300 mg / 30 mg Tab	TAB	PO
+Alendronate Sodium	ALEN70	70mg Tablet	TAB	PO
+Timolol Maleate 0.25%	TIMO25ES	5ml Bottle	DBTL	BOTH EYES
+Phytonadione	PHYT5	5mg Tablet	TAB	PO
+Brimonidine Tartrate 0.15% Ophth.	ALPH0.15O	5mL Dropper Bottle	DBTL	BOTH EYES
+CefazoLIN	CEFA1F	1g Froz.Bag	BAG	IV
+Ciprofloxacin	CIPRO400I	400mg/40mL Vial	ml	IV
+Dorzolamide 2%/Timolol 0.5% Ophth.	COSO10O	10mL Dropper Bottle	DBTL	BOTH EYES
+Artificial Tear Ointment	ARTI3.5O	3.5 gm Tube	TUBE	BOTH EYES
+Vitamin D	ERGO50	50,000 Unit Capsule	CAP	PO
+Lumigan	BIMA.03E	2.5mL Dropper Bottle	DBTL	OU
+Cromolyn	CROM4O	10 mL Bottle	DBTL	OU
+Donepezil 5 mg or Placebo	DONEIND	5mg or Placebo Capsule	CAP	PO
+Enoxaparin Sodium	ENO3I	30mg Syringe	SYR	SC
+Enoxaparin Sodium	ENOX100I	100mg Syringe	SYR	SC
+Vitamin D	ERGO400T	400Unit Tablet	TAB	PO
+Donepezil	DONEIND	5mg or Placebo Capsule	CAP	PO
+donepezil 5 mg or placebo	DONEIND	5mg or Placebo Capsule	CAP	PO
+Naphazoline-Pheniramine Ophth. Solution	NAPH15O	15 mL Dropper Bottle	DBTL	BOTH EYES
+Zinc Sulfate	ZINC220	220mg Capsule	CAP	PO
+Artificial Tears	ARTTS	1.4%;15mL Bottle	DBTL	BOTH EYES
+TraMADOL (Ultram)	TRAM50	50mg Tablet	TAB	PO
+Diltiazem	DILT30	30 mg Tab	TAB	PO
+traZODONE HCl	TRAZ50	50mg Tablet	TAB	PO
+Diltiazem	DILT60	60 mg Tab	TAB	PO
+Lidocaine 1%	LIDO1I	2mL Vial	VIAL	SC
+Heparin Flush PICC (100 units/ml)	HEPA100SYR	100Units/mL-5mL Syringe	SYR	IV
+Fentanyl Citrate	FENT2.5250	2.5mg/250mL NS	BAG	IV DRIP
+Warfarin	WARF5	5mg Tablet	TAB	PO
+Lansoprazole Oral Disintegrating Tab	LANS30ST	30mg SoluTab	TAB	NG
+Heparin	HEPA5I	5000 Units / mL- 1mL Vial	ml	IV
+Artificial Tears	REFRESH	0.3mL UD	DRP	BOTH EYES
+GlipiZIDE XL	GLUC2.5XL	2.5mg CR Tab	TAB	PO
+Hydrocortisone Na Succ.	HC100I	100MG/2ML VL	VIAL	IV
+Famotidine (IV)	FAMO20PM	20mg Premix Bag	BAG	IV
+Nesiritide	NESI1.5I	1.5mg Vial	VIAL	IV
+Nesiritide	NESI1.5I	1.5mg Vial	VIAL	IV DRIP
+Fentanyl Citrate	FENT50I	2500MCG/50ML VIAL	VIAL	IV DRIP
+Fentanyl Citrate	FENT10I	500MCG/10ML AMP	ml	IV
+D5W	D5W250	250ML BAG	ml	IV
+D5W	D5W250	250ML BAG	ml	IV DRIP
+D5W	D5W100	100ML BAG	ml	IV
+Furosemide	FURO40I	40MG/4ML VIAL	VIAL	IV
+Hydralazine HCl	HYDZ10	10MG TAB	TAB	PO
+Metoprolol	METO50	50MG TAB	TAB	PO
+Prednisone	PRED50	50MG TAB	TAB	PO
+Insulin	INNHI	10ML VIAL	ml	SC
+Atorvastatin	ATOR10	10MG TAB	TAB	PO
+Losartan Potassium	COZA25	25MG TAB	TAB	PO
+Heparin	HEPA5I	5000U/ML VIAL	ml	IV
+Insulin	HUMU100I	100U/ML;10ML	VIAL	SC
+Ferrous Sulfate	FERR325	325MG TAB	TAB	PO
+Oxycodone-Acetaminophen	PERC	5MG/325MG TAB	TAB	PO
+Prednisone	PRED20	20MG TAB	TAB	PO
+Warfarin	WARF5	5MG TAB	TAB	PO
+Quinidine Gluconate	QUIG324	324MG TAB	TAB	PO
+Digoxin	DIGO125	0.125MG TAB	TAB	PO
+Diltiazem	DILT30	30MG TAB	TAB	PO
+Furosemide	FURO100I	100MG/10ML VL	VIAL	IV
+Prednisone	PRED10	10MG TAB	TAB	PO
+Isosorbide Dinitrate	ISOS20	20MG TAB	TAB	PO
+Multivitamins W/minerals	MVITH	1 TAB	TAB	PO
+Phytonadione	PHYT10I	10MG/ML AMP	AMP	SC
+Ranitidine	RANI150	150MG TAB	TAB	PO
+Flumazenil	FLUM500I	0.5MG/5ML VL	VIAL	IV
+Metoprolol	METO5I	5MG/5ML VIAL	VIAL	IV
+Propofol (Generic)	PROP100IG	1000mg/100ml Vial	VIAL	IV DRIP
+Albuterol-Ipratropium	COMB14.7H	14.7gm Inhaler	CAN	IH
+Sodium Polystyrene Sulfonate	KAYE15L	15GM/60ML BTL	BTL	PO
+Docusate Sodium	DOCU100L	100MG UD CUP	UDCUP	PO
+Ranitidine	RANI150L	150MG UMI CUP	UDCUP	PO
+Senna	SENN15L	15ML UDCUP	UDCUP	PO
+Ferrous Sulfate	FERR300L	300MG/5ML CUP	UDCUP	PO
+Multivitamins W/minerals	MULT5L	5ML CUP	UDCUP	PO
+Morphine Sulfate	MORP1-10	1-10MG RANGE	SYR	IV
+Allopurinol	ALLO100	100MG TAB	TAB	PO
+Levofloxacin	LEV250	250MG TAB	TAB	PO
+Morphine Sulfate	MORP2-8	2-8mg Range	SYR	IV
+Diazepam	DIAZ10I	10mg/2mL Vial	VIAL	IV
+Dexamethasone Sod Phosphate	DEXAM20I	4MG/ML;5ML VIAL	VIAL	IV
+Acetaminophen	ACET650R	650MG SUPP	SUPP	PR
+Dexamethasone	DEXA10I	10MG/ML VIAL	VIAL	IV
+Miconazole Powder 2%	MICO2P	30GM BOTTLE	BTL	TP
+Haloperidol	HALD5I	5mg/mL Vial	VIAL	IM
+Labetalol HCl	LABE100	100MG TAB	TAB	PO
+Hydrochlorothiazide	HCTZ25	25MG TAB	TAB	PO
+Labetalol HCl	LABE200	200MG TAB	TAB	PO
+Minoxidil	MINX25	2.5MG TAB PPK	TAB	PO
+Hydralazine HCl	HYDZ50	50MG TAB	TAB	PO
+Hydralazine HCl	HYDZ25	25MG TAB	TAB	PO
+Minoxidil	MINO10	10MG TAB	TAB	PO
+Amlodipine	AMLO5	5mg Tab	TAB	PO
+Clonidine HCl	CATA1	0.1MG TAB	TAB	PO
+Dexamethasone	DEXA4	4MG TAB	TAB	PO
+Phenytoin	DILA100	100mg Cap	CAP	PO
+Sulfameth/Trimethoprim DS	BACTDS	DS TAB	TAB	PO
+NS (Glass Bottle)	NS100G	100ml Bottle	BTL	IV
+D5W	D5W150	150ML BAG	ml	IV DRIP
+Soln.	MANNBASE	500ml Bag	ml	IV
+NS	NS100	100ML BAG	ml	IV
+NS	NS500	500ML BAG	ml	IV
+Nitroprusside Sodium	NITP50I	25mg/ml-2ml	ml	IV DRIP
+Phenytoin Sodium	PHEN100I	100mg/2mL Vial	VIAL	IV
+Labetalol HCl	LABE100I	100MG/20ML V	VIAL	IV DRIP
+Mannitol 20%	MANN100I	500ML PREMIX	ml	IV
+Fondaparinux Sodium	FOND2.5I	2.5mg/0.5mL Syringe	SYR	SC
+Fondaparinux Sodium	FOND5I	5mg/0.4mL Syringe	SYR	SC
+D5W	DOPABASE	1 Bag	mL	IV DRIP
+5% Dextrose	D5W250	250mL Bag	mL	IV
+5% Dextrose	D5W100	100mL Bag	mL	IV
+DOPamine	DOPA400D	400mg Premix	BAG	IV DRIP
+CeftriaXONE	CEFX2F	2g Frozen Bag	BAG	IV
+Furosemide	FURO100I	100mg/10mL Vial	VIAL	IV
+Clopidogrel	CLOP75	75 mg Tablet	TAB	PO
+Atorvastatin	ATOR80	80mg Tablet	TAB	PO
+Clopidogrel	CLOP300	300 mg Tablet	TAB	PO
+PrednisoLONE Acetate 1% Ophth. Susp.	PRED1ES	1% Ophthalmic Suspension	DBTL	RIGHT EYE
+Ciprofloxacin HCl	CIPR250	250mg Tab	TAB	PO
+Ciprofloxacin 0.3% Ophth Soln	CILO25ES	2.5mL Dropper Bottle	DBTL	RIGHT EYE
+Acular	KETO.5ES	5mL Bottle	BTL	OD
+Acetaminophen	ACET650L	650mg UD Cup	UDCUP	PO
+Metoprolol Succinate XL	TOPR50	50mg XL Tab	TAB	PO
+Captopril	CAPT125	12.5mg Tablet	TAB	PO
+Fluticasone-Salmeterol Diskus (250/50) 	ADVA250IH	250/50mcg Diskus	DEV	IH
+traZODONE	TRAZ100	100mg Tablet	TAB	PO
+PredniSONE	PRED10	10 mg Tablet	TAB	PO
+Haloperidol	HALO5	5 mg Tab	TAB	PO
+Warfarin	WARF25	2.5mg Tablet	TAB	PO
+Enoxaparin Sodium	ENOX120I	120mg Syringe	SYR	SC
+Vial	VIAL	Send Vial	VIAL	IV BOLUS
+0.9% Sodium Chloride	NS100	100mL Bag	mL	IV DRIP
+NS (Mini Bag Plus)	NS/MBP100I	100mL Bag	BAG	IV
+Pantoprazole Sodium	PANT40I	40mg Vial	VIAL	IV BOLUS
+Pantoprazole Sodium	PANT40I	40mg Vial	VIAL	IV DRIP
+Piperacillin-Tazobactam	ZOSY4.5I	4.5 g Vial	VIAL	IV
+Piperacillin-Tazobactam	ZOSY4FPB	4.5 g Frozen Bag	BAG	IV
+Ziprasidone	GEOD80	80mg Capsule	CAP	PO
+Digoxin	DIGO125	0.125mg Tablet	TAB	PO
+Insulin	IN73HI	10mL Vial	VIAL	SC
+Fluocinonide 0.05% Ointment	LIDX60O	60gm Tube	TUBE	TP
+MethylPREDNISolone Sodium Succ	METH125I	125mg Vial	VIAL	IV
+Insulin	HUMU100I	100Units/mL;10mL	VIAL	SC
+Propofol	PROP200IG	200mg/20mL Vial	VIAL	IV DRIP
+Lansoprazole Oral Disintegrating Tab	LANS30ST	30mg SoluTab	TAB	PO
+MethylPREDNISolone Sodium Succ	METH40I	40mg Vial	VIAL	IV
+Thiamine	THIA100	100mg Tablet	TAB	PO
+FoLIC Acid	FOLI1	1 mg Tab	TAB	PO
+PredniSONE	PRED50	50 mg Tablet	TAB	PO
+Cepacol (Menthol)	CEPACOL1	1 LOZ.	LOZ	PO
+Potassium Chloride Replacement (Oncology)	POTA20	20 mEq SR Tablet	TAB	PO
+Potassium Chloride Replacement (Oncology)	KCL20P	20mEq Packet	PKT	PO
+Warfarin	WARF2	2mg Tablet	TAB	PO
+Enoxaparin Sodium	ENOX150I	150mg Syringe	SYR	SC
+Diazepam	DIAZ10	10 mg Tab	TAB	PO
+Penicillin V Potassium	PENV500	500MG TAB	TAB	PO
+Nephrocaps	NEPH1	1 CAP PPK	CAP	PO
+Lorazepam	LORA5	0.5MG TAB	TAB	PO
+Nystatin Oral Susp.	NYST5L	500KU UDCUP	UDCUP	PO
+Calcium Carbonate	CALC500	500MG TAB	TAB	PO
+Chlorhexidine Gluconate	CHLO15L	15ml Cup	UDCUP	PO
+Acetaminophen w/Codeine	T3	300MG/30MG TAB	TAB	PO
+Gabapentin	GABA100	100MG CAP	CAP	PO
+Zolpidem Tartrate	AMBI5	5MG TAB	TAB	PO
+Heparin	HEPA5I	5000U/ML VIAL	VIAL	SC
+Epoetin Alfa	EPO40I	40,000 UNIT VIAL	VIAL	SC
+Guaifenesin-Codeine Phosphate	GGAC5L	5ML UDCUP	UDCUP	PO
+Nitroglycerin Oint. 2%	NTG2O	30GM TUBE	TUBE	TP
+Nitroglycerin SL	NTG3SL	0.3MG SL TAB	TAB	SL
+Famotidine	PEPC20	20mg Tablet	TAB	PO
+Aluminum-Magnesium Hydrox.-Simethicone	MAAL30L	30 mL UDCup	UDCUP	PO
+Promethazine	PROM25I	25mg/mL Amp	AMP	IV
+Vitamin D	ERGO400T	400 Unit Tablet	TAB	PO
+Felodipine	FELO2.5	2.5mg CR Tablet	TAB	PO
+Propra	PROPLA80	80 mg LA Capsule	CAP	PO
+Propranolol	PROP10	10 mg Tab	TAB	PO
+Olanzapine	OLAN5	5mg Tablet	TAB	PO
+Lidocaine 5% Patch	LIDO5T	Patch	PTCH	TD
+Quetiapine Fumarate	QUET25	25mg Tablet	TAB	PO
+Propranolol	PROP40	40 mg Tab	TAB	PO
+Metoprolol Tartrate	METO50	50mg Tablet	TAB	PO
+0.9% Sodium Chloride	NS100	100mL Bag	mL	IV
+Vancomycin HCl	VANCO10I	10GM VIAL	mg	IV
+Cefepime	CEFE1I	1gm Vial	VIAL	IV
+D5W	D5W150	150ML BAG	ml	IV
+D5W	D5W50	50ML BAG	ml	IV
+Furosemide	FURO80	80 mg Tab	TAB	PO
+Diltiazem Extended-Release	TIAZ240	240 mg ER Cap	CAP	PO
+Erythromycin 0.5% Ophth Oint	ERYT0.5EO	1g UD Tube	TUBE	OU
+D5LR	D5LR1000	1000mL Bag	ml	IV
+Penicillin G Potassium	PENI2F	2 Million Unit Frozen Bag	BAG	IV
+Penicillin G Potassium	PENGK3I	3 Million Unit Frozen Bag	BAG	IV
+Ferrous Gluconate	FERRG325	325 mg Tablet	TAB	PO
+Fluticasone-Salmeterol (100/50)	ADVA100/50H	100/50 mcg Diskus	DEV	IH
+Dextrose 5%	LEVOBASE3	150ml Bag	BAG	IV
+Levofloxacin	LEVO750PM	750mg Premix Bag	BAG	IV
+Venlafaxine XR	VENL75XR	75mg XR Capsule	CAP	PO
+Lisinopril	LISI10	10mg Tablet	TAB	PO
+Methimazole	METH5	5 mg Tab	TAB	PO
+Oxycodone (Sustained Release)	OXYC10	10mg Tablet	TAB	PO
+Mirtazapine	MIRT30	30 mg Tab	TAB	PO
+Quetiapine Fumarate	QUET200	200mg Tablet	TAB	PO
+Amiodarone	AMID200	200 mg Tab	TAB	PO
+Oxybutynin	OXYB5	5mg Tablet	TAB	PO
+Cephalexin	CEPH500	500 mg Cap	CAP	PO
+Phenazopyridine	PHEN100	100mg Tablet	TAB	PO
+Docusate Sodium (Liquid)	DOCU100	100mg Capsule	CAP	PO
+traZODONE	TRAZ50	50mg Tablet	TAB	PO
+Acetaminophen	APAP500	500mg Tablet	TAB	PO
+Torsemide	TORS20	20 mg Tab	TAB	PO
+D5W	MILRBASE	100mL Bag	BAG	IV BOLUS
+D5W	MILRBASE	100mL Bag	BAG	IV DRIP
+0.9% Sodium Chloride	NS250	250mL Bag	mL	IV DRIP
+Milrinone	MILR20PM	20mg/100mL Premix	BAG	IV BOLUS
+Milrinone	MILR20PM	20mg/100mL Premix	BAG	IV DRIP
+Dolasetron Mesylate	DOLA12.5I	12.5mg Vial	VIAL	IV
+sodium bicarb	NABC50S	50mEq Syringe	SYR	IV
+Metronidazole	METR500	500 mg Tab	TAB	NG
+NS	FLUCBASE	100mL Bag	ml	IV
+D5W	DOPABASE	1 Bag	ml	IV DRIP
+Isotonic Sodium Chloride	GENTBASE1	50ml Bag	ml	IV
+Sterile Water For Irrigation	SW1000BTL	1000ml Bottle	ml	PR
+Bag	BAG50I	50mL Bag	BAG	IV
+CeftAZIDime	CEFT1F	1g Frozen Bag	BAG	IV
+Fluconazole	FLU200PM	200 mg Premix Bag	BAG	IV
+Daptomycin	DAPT500I	500mg Vial	mg	IV
+Sodium Bicarbonate	NABC50I	50mEq Vial	VIAL	IV
+DopAmine	DOPA400D	400mg Premix	BAG	IV DRIP
+Gentamicin	GENT100PM	100mg Premix	BAG	IV
+Vancomycin Enema	VANCPR	500mg Vial	VIAL	PR
+Albumin, Human	ALBU25100I	25%-100mL	VIAL	IV
+Hydromorphone	HYDR2I	2mg/mL Syringe	SYR	SC
+Vancomycin Oral Liquid	VANC250L	250mg Oral Syringe	SYR	PO
+Artificial Tears	REFRESH	0.3mL UD	DRP	OU
+Clopidogrel Bisulfate	CLOP75	75mg Tablet	TAB	PO
+Ascorbic Acid	ASCOR504L	504mg UDCUP	UDCUP	PO
+Multivitamins	MULT5L	5mL Cup	UDCUP	PO
+Metronidazole	METR500	500 mg Tab	TAB	PO
+Albumin 5% (25 g)	ALBU5500	500mL Vial	VIAL	IV
+Vancomycin Oral Liquid	VANC500L	500mg Oral Syringe	SYR	PO
+Albumin 25% (12.5 g)	ALBU25	25%-50mL	VIAL	IV
+Lisinopril	LISI10	10 mg Tab	TAB	PO
+NIFEdipine CR	ADAL30	30 mg CR Tab	TAB	PO
+Latanoprost 0.005% Ophth. Soln.	LATA5OS	2.5mL Dropper Bottle	DBTL	OU
+Simethicone	SIME80	80mg Tablet	TAB	PO
+Lidocaine Viscous 2%	LIDO20L	20mL UDCUP	UDCUP	PO
+Benzocaine 20% Spray	HURRSPRAY	60g Can	CAN	TP
+Multivitamins	MVI10I	10mL Vial	VIAL	IV
+Levothyroxine Sodium	LEVO200I	200mcg Vial	VIAL	IV
+DiphenhydrAMINE HCl	DIPH25	25mg Cap	CAP	PO
+Propofol	PROP500IG	500mg/50mL Vial	VIAL	IV DRIP
+Levothyroxine Sodium	LEVO100	100mcg Tab	TAB	PO
+Nystatin Oral Suspension	NYST5L	500,000 Unit UDCUP	UDCUP	PO
+Hydromorphone	HYDRO4I	4mg/mL Syringe	SYR	SC
+NIFEdipine CR	ADAL60	60mg CR Tablet	TAB	PO
+GlipiZIDE	GLIP10	10 mg Tab	TAB	PO
+Pioglitazone HCl	PIOG15	15mg Tablet	TAB	PO
+Hydromorphone	HYDR2I	2mg/mL Syringe	SYR	IV
+Thiamine HCl	THIA100	100MG TAB	TAB	PO
+Cyanocobalamin	CYAN100	100 mcg Tablet	TAB	PO
+Multivitamins	MVI	1 CAP	CAP	PO
+Fluticasone-Salmeterol (250/50) 	ADVA250IH	250/50 mcg Diskus	DEV	IH
+Albuterol-Ipratropium	COMB14.7H	14.7g Inhaler	CAN	IH
+Oxycodone	OXYC5	5mg Tablet	TAB	PO
+1/2 NS	NS451000	1000mL Bag	ml	IV
+Potassium Chl 40 mEq / 1000 mL D5 1/2 NS	KCL40/1000D51/2NS	1000 mL Bag	BAG	IV
+Butalbital-Acet-Caffeine	FIOC	1 TAB	TAB	PO
+Alprazolam	ALPR25	0.25MG TAB	TAB	SL
+Alprazolam	ALPR25	0.25MG TAB	TAB	PO
+Hydromorphone	HYDR2	2mg Tab	TAB	PO
+Hydromorphone	HYDM4	4mg Tab	TAB	PO
+D5W	D5W150	150mL Bag	ml	PB
+Ceftriaxone	CEFX2F	2GM FROZ BAG	BAG	IV
+Acyclovir	ACY500I	50mg/mL-10mL	ml	IV
+Nitroprusside Sodium	NITP50I	25mg/mL-2mL	ml	IV DRIP
+Labetalol HCl	LABE100I	100MG/20ML V	VIAL	PB
+5% Dextrose	D5W50	50mL Bag	mL	IV
+0.9% Sodium Chloride	NS50	50mL Bag	mL	IV
+Penicillin G Potassium	PENGK5I	5 Million Unit Vial	million units	IV
+Penicillin V Potassium	PENV250	250mg Tablet	TAB	PO
+Enoxaparin Sodium	ENOX80I	80mg Syringe	SYR	SC
+Acebutolol HCl	ACEB200	200 mg Cap	CAP	PO
+Lidocaine Jelly 2% (Urojet)	LID2J	5mL Urojet	TUBE	TP
+Potassium Chloride	KCL20PM	20mEq/50ml Premix	BAG	IV
+Clopidogrel Bisulfate	CLOP75	75MG TAB	TAB	PO
+Diazepam	DIAZ5	5MG TAB	TAB	PO
+Nitroglycerin SL	NTG4SL	0.4MG SL TAB	TAB	SL
+Pravastatin	PRAV20	20MG TAB	TAB	PO
+Calcium Gluconate	CALG1I	1GM/10ML VIAL	VIAL	IV
+Magnesium Oxide	MAGN400	400MG TAB	TAB	PO
+Midazolam HCl	MIDA2I	2MG/2ML VIAL	ml	IV
+Diazepam	DIAZ2	2MG TAB	TAB	PO
+Indomethacin	INDO25	25MG CAP	CAP	PO
+Midazolam HCl	MIDA50I	50mg/10mL Vial	ml	IV DRIP
+Nicotine Patch	NICO14P	14mg/24Hr Patch	PTCH	TD
+Metoclopramide	METO10	10mg Tab	TAB	PO
+Sumatriptan Succinate	SUMA6V	6mg/0.5mL Vial	VIAL	SC
+Naproxen	NAPR250	250 mg Tab	TAB	PO
+Aluminum-Magnesium Hydrox.-Simethicone	MAAL148	148 mL Bottle	BTL	PO
+Cinacalcet	CINA30	30mg Tablet	TAB	PO
+Quinapril	QUIN20	20mg Tablet	TAB	PO
+Piperacillin-Tazobactam Na	ZOSY2.25I	2.25 g Frozen Bag	BAG	IV
+Baclofen	BACL10	10mg Tablet	TAB	PO
+Tacrolimus	TACR1	1 mg Capsule	CAP	PO
+Tacrolimus	TACR0.5	0.5mg Capsule	CAP	PO
+Lidocaine 1%/Epinephrine 1:100000	LIEPI20I	20mL Vial	VIAL	SC
+Fentanyl Patch	FENT50P	50mcg/hr Patch	PTCH	TP
+Acetylcysteine 20%	ACET20/4I	800mg/4ml Vial	VIAL	NEB
+0.9% Sodium Chloride	NS100	100mL Bag	mL	IJ
+Meropenem	MERO500I	500mg Vial	VIAL	IV
+Fentanyl Citrate	FENT2.5I	2.5mg/50mL Vial	mL	IV DRIP
+Tobramycin Sulfate	TOBR80I	40mg/mL-2mL	mL	IV
+Acyclovir	ACY500I	50mg/mL-10mL	mL	IV
+*NF* Ertapenem Sodium	ERTA1I	1g Vial	VIAL	IJ
+Phenytoin	DILA100	100mg Capsule	CAP	PO
+Nystatin-Triamcinolone Cream	MYCO2C	30 g Tube	Appl	TP
+HydrALAzine	HYDZ20I	20mg/mL Vial	VIAL	IV
+Phenytoin	PHEN100I	100mg/2 mL Vial	VIAL	IV
+Midazolam	MIDA2I	2mg/2mL Vial	VIAL	IV
+Phenytoin Sodium	PHEN100I	100mg/2 mL Vial	VIAL	IV
+Methimazole	METH10	10 mg Tab	TAB	PO
+Metolazone	METL5	5 mg Tab	TAB	PO
+Vecuronium Bromide	VECU10I	10mg Vial	VIAL	IV
+AcetaZOLamide	ACE250	250mg Tablet	TAB	PO
+PHENObarbital	PHEN30	30mg Tablet	TAB	PO
+PHENObarbital	PB30EL	30mg/7.5mL UD Cup	UDCUP	PO
+Sodium Chloride	NACL1	1g Tablet	TAB	PO
+PHENObarbital	PB15	15 mg Tab	TAB	PO
+Phenytoin	PHENY100L	100mg/4mL UDCup	UDCUP	PO
+Scopolamine Patch	SCOP15P	1.5mg Patch	PTCH	TP
+Glycopyrrolate	GLYC1I	0.2mg/mL; 5mL Vial	VIAL	IV
+PHENObarbital	PB60I	60mg/mL Syringe	SYR	IV
+Potassium Chl 20 mEq / 1000 mL NS	KCL20/1000NS	1000 mL Bag	BAG	IV
+NS	NS250	250mL Bag	mL	IV
+NS	NS250	250mL Bag	mL	IV DRIP
+NS	NS500	500mL Bag	mL	IV
+NS	NS100	100mL Bag	mL	IV
+D5W	D5W100	100mL Bag	mL	IV DRIP
+D5W	D5W100	100mL Bag	mL	IV
+Soln	SOLN	Soln.	mL	IV DRIP
+D5W	D5W250	250mL Bag	mL	IV DRIP
+Potassium Chl 20 mEq / 1000 mL D5NS	KCL20/1000D5NS	1000 mL Bag	BAG	IV
+D5W	D5W250	250mL Bag	mL	IV
+D5W	D5W500	500mL Bag	mL	IV
+NiCARdipine IV	NICA2.5I	2.5mg/mL;10mL Vial	mL	IV DRIP
+Phenytoin Sodium	PHEN250I	250mg/5mL Vial	VIAL	IV
+PHENObarbital	PHEN130I	130mg/mL Vial	mL	IV
+Phenytoin Sodium	PHEN100IVPB	100mg/2mL Vial	VIAL	IV
+Fosphenytoin	FOSP100I	100mg PE/2mL	VIAL	IV
+LeVETiracetam	LEVE500I	500mg/5mL Vial	mL	IV
+PENTObarbital Sodium	NEBU2500I	2500mg/50mL Vial	mL	IV DRIP
+Vancomycin	VANC500I	500mg Vial	VIAL	IV
+Sarna Lotion	SARNL	222ML BTL	BTL	TP
+Digoxin	DIGO.5I	0.5mg/2mL Amp	AMP	IV
+Sodium Bicarbonate	NABC50S	50MEQ SYRINGE	SYR	IV
+Phenytoin	PHEN50	50mg Tab	TAB	PO
+Amiodarone HCl	AMID200	200MG TAB	TAB	PO
+Acetaminophen (Liquid)	ACET650L	650mg UDCUP	UDCUP	PO
+D5W	MILRBASE	100ML BAG	BAG	IV
+D5W	D5W1000	1000ML BAG	ml	IV
+Dextrose 5%	LEVOBASE	50ml Bag	ml	IV
+D5W	D5W100	100ML BAG	ml	IV DRIP
+D5W	D5W50	50ML BAG	ml	IV DRIP
+D5W	DOPABASE	1 BAG	ml	IV DRIP
+Lidocaine	LIDO100S	100mg/5ml Syringe	SYR	IV
+Nystatin Oral Suspension	NYST5L	500KU UDCUP	UDCUP	PO
+Captopril	CAPT25	25MG TAB	TAB	PO
+Spironolactone	SPIR25	25MG TAB	TAB	PO
+Potassium Chloride	KCL20P	20MEQ PKT	PKT	NG
+Golytely	GOLY4L	4 LITER BTL	BTL	PO
+traZODONE HCl	TRAZ50	50MG TAB	TAB	PO
+D5W	LIDOBASE	500ML BAG	ml	IV DRIP
+D5W	NTGBASE	250ML BOTTLE	BTL	IV DRIP
+Midazolam HCl	MIDA50I	50MG/10ML VL	ml	IV DRIP
+DopAmine	DOPA400PM	400MG PREMIX	BAG	IV DRIP
+Vancomycin HCl	VANC500I	500mg Vial	VIAL	IV
+Vasopressin	VASO20I	20U/ML VIAL	ml	IV DRIP
+Milrinone	MILR20PM	20MG/100ML PM	BAG	IV
+Sodium Bicarbonate	NABC50I	50MEQ VIAL	VIAL	IV
+Multivitamin 12	MVI10I	 VIAL	VIAL	IV
+Potassium Chloride	KCL10PM	10mEq/100ml Premix	BAG	IV
+Ceftazidime	CEFT2F	2GM FROZ. BAG	BAG	IV
+Furosemide	FURO40I	40mg/4mL Vial	VIAL	IV DRIP
+Lidocaine	LIDE4500I	2GM PREMIX	BAG	IV DRIP
+Nitroglycerin	NTG100PB	100MG/250 PM	BTL	IV DRIP
+Atropine Sulfate	ATRO1I	1MG/10ML SYRINGE	SYR	IV
+Pletal	CILOS100	100mg Tablet	TAB	PO
+Fluticasone Propionate 110mcg	FLUT110H	13g Inhaler	INH	IH
+Salmeterol Xinafoate Diskus (50 mcg)	SALM50D	28g Diskus	DEV	IH
+Ipratropium Bromide MDI	IPRAPF	14.7GM INHALER	INH	IH
+Azithromycin	ZITHR250	250MG CAP	CAP	PO
+Alteplase (Catheter Clearance)	ALTE1I	1MG/1ML SYR.	SYR	IV
+Magnesium Sulfate	MAGS1I	1GM/2ML VIAL	VIAL	IV
+Ceftriaxone	CEFX1F	1GM FROZ BAG	BAG	IV
+Dobutamine	DOBPREM	250MG PREMIX		IV DRIP
+Morphine Sulfate	MORPH100	100MG/4ML SY	SYR	IV DRIP
+D5W	DOBUBASE	1 BAG	ml	IV DRIP
+Calcium Replacement (Oncology)	CALG1I	1g/10mL Vial	VIAL	IV
+NS	NS100	100mL Bag	mL	IV DRIP
+D5W	CIPROBASE	1 Bag	mL	IV
+Midazolam	MIDA50I	50mg/10mL Vial	mL	IV DRIP
+Fluconazole	FLUC200	200mg Tab	TAB	PO
+Danazol	DANA200	200MG CAP	CAP	PO
+Acyclovir	ACYC200	200mg Cap	CAP	PO
+Hydroxyurea	HYDU500	500mg Cap	CAP	PO
+Loperamide HCl	LOPE2	2 mg Cap	CAP	PO
+Bismuth Subsalicylate	PEPT240L	240ml Bottle	BTL	PO
+Heparin Flush PICC (100 units/ml)	HEPA100SYR	100 Units/ml-5ml Syringe	SYR	IV
+Phytonadione	PHYT5	5mg Tab PPK	TAB	PO
+Vitamin D	ERGO50	50,000 Unit Cap	CAP	PO
+Tocopheryl	VITE400	400U CAP PPK	CAP	PO
+Calcium Carbonate	CAL1250	1250mg Tab	TAB	PO
+Vancomycin Oral Liquid	VANC125L	125mg Oral Syringe	SYR	PO
+Morphine Sulfate	MORP2-4	2-4mg Range	SYR	IV
+Clarithromycin	BIAX500	500mg Tab	TAB	PO
+Ethambutol HCl	ETHA400	400MG TAB	TAB	PO
+Rifampin	RIFA300	300MG CAP PPK	CAP	PO
+Isoniazid	ISON300	300MG TAB	TAB	PO
+Pyridoxine HCl	PYRI100	100mg Tab	TAB	PO
+Pyrazinamide	PYRA500	500MG TAB	TAB	PO
+Morphine Sulfate	MORP2-6	2-6mg Range	SYR	IV
+Cefepime	CEFE2I	2g Vial	ml	IV
+Rifampin	RIFA600I	600mg Vial	VIAL	IV
+Methylprednisolone Na Succ	METH40I	40mg Vial	VIAL	IV
+D5W	D5W50	50mL Bag	ml	IV DRIP
+Soln.	FENTSOLN	20ml Bottle	ml	IV DRIP
+Vecuronium Bromide	VECU10I	10MG VIAL	VIAL	IV DRIP
+Cisatracurium Besylate	CISA200I	200mg/20mL Vial	VIAL	IV DRIP
+Fentanyl Citrate	FENT20I	1mg/20mL Vial	ml	IV DRIP
+Azithromycin	ZITHR250	250mg Capsule	CAP	PO
+Oxycodone	OXYC5	5mg Tab	TAB	PO
+Tarceva		150 mg Oral Tab	TAB	ORAL
+Acetylcysteine 20%	ACETNEB	30ml Vial (For Neb Use)	VIAL	NEB
+Vecuronium Bromide	VECU10I	10MG VIAL	VIAL	IV BOLUS
+Cisatracurium Besylate	CISA10I	10mg/5mL Vial	VIAL	IV BOLUS
+Artificial Tear Ointment	ARTI3.5O	3.5 gm Tube	TUBE	OU
+sodium bic	NABC50I	50mEq Vial	VIAL	IV
+Glycopyrrolate	GLYC1I	0.2MG/ML;5ML VIAL	VIAL	IV
+Meperidine	MEPE50I	50 mg Syringe	ml	IV
+Morphine Sulfate	MORP0.5-4	0.5-4mg Range	SYR	IV
+Midazolam HCl	MIDA2I	2mg/2mL Vial	ml	IV
+Sucralfate	CARA1	1GM TAB	TAB	NG
+Aspirin	ASA325	325mg Tab	TAB	NG
+Ranitidine	RANI150	150mg Tab	TAB	PO
+Ranitidine	RANI150L	150MG UMI CUP	UDCUP	NG
+Warfarin	WARF5	5mg Tab	TAB	PO
+Morphine Sulfate	MORP1-5	1-5mg Range	SYR	SC
+Warfarin	WARF25	2.5mg Tab	TAB	PO
+Enoxaparin Sodium	ENOX60I	60mg Syringe	SYR	SC
+Dextromethorphan-Guaifenesin (Sugar Free)	DITU4L	4 Oz. Bottle	BTL	PO
+Dolasetron Mesylate	DOLAS100	100mg Tab	TAB	PO
+Ipratropium Bromide Neb	IPRA2H	2.5ml Vial	VIAL	IH
+Codeine Sulfate	CODE30	30mg Tab	TAB	PO
+Dexamethasone	DEXA10I	10mg/mL Vial	VIAL	IV
+Diphenhydramine HCl	DIPH125L	25mg/5mL Bulk	ml	IV
+Amoxicillin-Clavulanic Acid	AUGM500	500mg Tab	TAB	PO
+Benzonatate	BENZ100	100MG TAB	TAB	PO
+Glipizide	GLIP5	5MG TAB	TAB	PO
+Glyburide	GLYB25	2.5MG TAB	TAB	PO
+Nystatin Ointment	NYSTO	100KU/GM OINT	TUBE	TP
+Cimetidine	CIME300	300MG TAB	TAB	PO
+Glyburide	GLYB5	5MG TAB	TAB	PO
+NS	FLUCBASE2	200ml Bag	ml	IV
+D5W (EXCEL BAG)	D5W250E	250mL (EXCEL)	BAG	PB
+Fluconazole	FLUCO400PM	400mg Premix Bag	BAG	IV
+Paclitaxel	TAXO30I	6mg/mL-5mL	ml	PB
+Carboplatin	CARB450I	10mg/mL-45mL	ml	IV
+Docetaxel	TAXO80I	80mg Vial	ml	IV
+Sterile Water	SW3000	3000 mL Bag	BAG	DIALYS
+Sterile Water	SW3000	3000 mL Bag	BAG	IV
+Iso-Osmotic Dextrose	VANCOBASE	200ml Bag	ml	PB
+D5W	D5W150	150mL Bag	ml	IV
+NS (Glass Bottle)	NS100G	100mL Bottle	BTL	IV
+Syringe (IV Room)	SYRG1	1 Syringe	ml	IV
+D5W (Glass Bottle)	D5W250G	250mL Bottle	ml	IV DRIP
+Sterile Diluent for Flolan	STER50I	50mL Vial	ml	IV DRIP
+NS (Glass Bottle)	NS250G	250mL Bottle	ml	IV
+1/2 NS	1/2NS250I	250mL Bag	BAG	IV
+Heparin	HEPA5I	5000Units/mL- 1mL Vial	ml	SC
+Valganciclovir HCl	VALGA450	450mg Tab	TAB	PO
+Sulfameth/Trimethoprim	BACTSS	1 TAB	TAB	PO
+Tacrolimus	TACRSUSP	0.5 mg / mL Suspension	ml	PO
+Lamivudine	LAMI100	100mg Tab	TAB	PO
+Levofloxacin	LEV500	500mg Tablet	TAB	PO
+Sulfameth/Trimethoprim SS	BACTSS	1 TAB	TAB	PO
+Tacrolimus	TACR0	Check with MD for Dose	dose	PO
+Propofol	PROP100IG	1000mg/100mL Vial	VIAL	IV
+Hepatitis B Immune Globulin (Nabi-HB)	HBIG5I	5mL Vial	ml	IM
+Tacrolimus	TACR1	1mg Capsule	CAP	PO
+Albumin 5% (12.5 g)	ALBU5250	250mL Vial	VIAL	IV
+Mycophenolate Mofetil	MYCO200/1L	500mg/2.5mL Oral syringe	SYR	NG
+Artificial Tears	REFRESH	0.3ML UD	UNIT	OU
+Prednisone	PRED25	2.5MG TAB	TAB	PO
+Prednisone	PRED5	5mg Tablet	TAB	PO
+Valganciclovir HCl	VALGA450	450mg Tablet	TAB	PO
+Albumin 5%	ALBU5250	250mL Vial	VIAL	IV
+Albumin	ALBU5250	250mL Vial	VIAL	IV
+Calcium Acetate	CALC667	667mg Tab PPK	TAB	PO
+Sodium Bicarbonate	NABC50S	50mEq Syringe	SYR	IV
+Methylprednisolone Na Succ	MPRED5I	500mg Vial	VIAL	IV
+Mycophenolate Mofetil	MYCO500I	500mg Vial	VIAL	IV
+Basiliximab	SIMU20I	20 mg / 5 mL Vial	ml	IV
+Hepatitis B Immune Globulin (Nabi-HB)	HBIG5I	5mL Vial	ml	IV
+Methylprednisolone Na Succ.	MPREDSYR	1 Syringe	mg	IV
+Ganciclovir	GANC500I	500mg Vial	ml	IV
+Nitroglycerin	NITR50I	50 mg / 10 ml Vial	VIAL	IV DRIP
+Epoprostenol Na	EPOP5I	0.5mg Vial	VIAL	IV DRIP
+Normocarb	NORMOCARB	240 mL Vial	VIAL	DIALYS
+Potassium Chloride	KCL20I	2mEq/mL-10mL	ml	DIALYS
+Calcium Gluconate	CAGLMEQ	0.465 mEq / 1 mL - 10 mL Vial	ml	DIALYS
+Sodium Chloride 	NACL23.4I	4mEq/ml-30ml	ml	DIALYS
+Sodium Chloride	NACL4I	23.4%;30mL Vial	ml	DIALYS
+Meropenem	MERO1I	1000mg Vial	VIAL	IV
+Phytonadione	PHYT10I	10mg/mL Amp	AMP	IV
+Normocarb	NORMOCARB	240 mL Vial	VIAL	IV
+Calcium Gluconate	CAGLMEQ	0.465 mEq / 1 mL - 10 mL Vial	ml	IV
+Sodium Chloride	NACL4I	23.4%;30mL Vial	ml	IV
+Vancomycin HCl	VANC1F	1g Frozen Bag	BAG	PB
+PrednisoLONE Acetate 1% Ophth. Susp.	PRED1ES	1% Ophthalmic Suspension	DBTL	BOTH EYES
+Nitroglycerin Ointment  2%	NITRO1O	1g Packet	PKT	TP
+GlipiZIDE XL	GLUC5XL	5mg CR Tablet	TAB	PO
+5% Dextrose	D5W500	500mL Bag	mL	IV
+Insulin Human Regular	INHRIV	100Units/mL; 10mL Vial	mL	IV DRIP
+Digoxin	DIGO125	0.125mg Tab	TAB	PO
+Digoxin	DIGO25	0.25MG TAB	TAB	PO
+Cetylpyridinium Chl (Cepacol)	CEPACOL1	1 LOZ.	LOZ	PO
+Methylprednisolone Na Succ	METH125I	125MG VIAL	VIAL	IV
+Sodium Chloride Nasal	SODI65S	45ML BOTTLE	SPRY	NU
+Clonazepam	CLON1	1mg Tab	TAB	PO
+Clonazepam	CLON5	0.5MG TAB	TAB	PO
+Losartan Potassium	COZA25	25mg Tablet	TAB	PO
+Tirofiban	TRIF12.5I	12.5mg Vial	VIAL	IV DRIP
+Soln.	SOLN3	50ml Bottle	BTL	IV DRIP
+Atropine Sulfate	ATROP1I	1mg/1mL Vial	VIAL	IV
+Atorvastatin	ATOR40	40mg Tablet	TAB	PO
+Albumin 25% (12.5gm)	ALBU25	25%-50mL	VIAL	IV
+Cisatracurium Besylate	CISA10I	10mg/5mL Vial	VIAL	IV
+D5W	D5W250	250mL Bag	ml	IV BOLUS
+1/2 NS	0.45NS3000I	3000 mL Bag	BAG	IV
+Sterile Water	SW3000I	3000mL Bag	BAG	IV
+Octreotide Acetate	OCTR100I	100mcg/mL-1mL	ml	IV DRIP
+Cisatracurium Besylate	CISA200I	200mg/20mL Vial	VIAL	IV BOLUS
+Cisatracurium Besylate	CISA200I	200mg/20mL Vial	VIAL	IV
+Potassium Chloride	KCL40I	2mEq/mL-20mL	ml	DIALYS
+Sodium Chloride 	NACL23.4I	4mEq/ml-30ml	ml	IV
+Morphine Sulfate	MORP1-10	1-10mg Range	SYR	IV
+Acetaminophen	ACET650L	650mg UD Cup	UDCUP	NG
+Propoxyphene Nap.-Apap (N-100)	DARV100	U/D TAB	TAB	PO
+Midazolam HCl	MIDA5I	5mg/1mL Vial	VIAL	IV
+Sucralfate	CARA1	1g Tablet	TAB	PO
+Haloperidol	HALO1	1MG TAB	TAB	PO
+Thiamine HCl	THIAM100I	100mg/mL-2mL	ml	IV
+Labetalol HCl	LABE100I	100MG/20ML V	VIAL	IV
+Sulfameth/Trimethoprim SS	BACTSS	1 Tab	TAB	PO
+Sirolimus	SIRO1	1mg Tablet	TAB	PO
+Dexamethasone	DEXA4	4mg Tab	TAB	PO
+Lactulose Enema	LACT1000R	1000mL Bottle	BTL	PR
+Sodium Phosphate	NAPH15I	3mmol/ml-15ml	mL	IV
+Sirolimus	SIRO2L	2mg/2mL Liquid	SYR	PO
+Prochlorperazine	PROC10	10 mg Tab	TAB	PO
+Midazolam	MIDA5I	5mg/1mL Vial	VIAL	IV
+HYDROmorphone (Dilaudid)	HYDR2I	2mg/mL Syringe	SYR	IV
+Tacrolimus	TACR1	1 mg Capsule	CAP	SL
+Morphine SR (MS Contin)	MSCO30	30mg Tablet	TAB	PO
+NS	NS150	150mL Bag	mL	IV
+Erythromycin	ERYT500I	500 mg Vial	mg	IV
+Candesartan	CAND4	4mg Tablet	TAB	ORAL
+Mannitol 20%	MANN100I	500mL Premix	ml	IV
+Gentamicin Sulfate	GENT80I	40mg/mL-2mL	ml	IV
+Fentanyl Citrate	FENT2.5I	2.5 mg / 50 mL Vial	ml	IV DRIP
+Esmolol	ESMO2.5PM	2500 mg Premix Bag	BAG	IV BOLUS
+Esmolol	ESMO2.5PM	2500 mg Premix Bag	BAG	IV DRIP
+Cisatracurium Besylate	CISA20I	20mg/10mL Vial	VIAL	IV BOLUS
+NS	ESMOBASE	250ml Bag	ml	IV BOLUS
+NS	ESMOBASE	250ml Bag	ml	IV DRIP
+Aspirin	ASA300R	300mg Suppository	SUPP	PR
+Heparin	HEPA5I	5000 Units /mL- 1mL Vial	ml	SC
+Dostinex	CABE0.5	0.5mg Tablet	TAB	ORAL
+Midodrine HCl	MIDO5	5 mg Tab	TAB	PO
+CefTRIAXone	CEFX1F	1g Frozen Bag	BAG	IV
+Fludrocortisone Acetate	FLUD100	0.1 mg Tab	TAB	PO
+Cabergoline	CABE0.5	0.5mg Tablet	TAB	ORAL
+Ranitidine (Liquid)	RANI150L	150mg UD Cup	UDCUP	PO
+Sarna Lotion	SARNL	222mL Bottle	BTL	TP
+Sulfameth/Trimethoprim	BACT10I	10mL Vial	ml	IV
+Labetalol	LABE100	100mg Tablet	TAB	PO
+Timolol Maleate 0.5%	TIMO5ES	5mL bottle	DBTL	BOTH EYES
+Isosorbide Mononitrate (Extended Release)	IMDU30	30mg ER Tablet	TAB	PO
+Latanoprost 0.005% Ophth. Soln.	LATA5OS	2.5mL Dropper Bottle	DBTL	BOTH EYES
+Maalox/Diphenhydramine/Lidocaine	MABELI120	120mL Bottle	BTL	PO
+Insulin	INRHI	10mL Vial	mL	IV
+Soln	FENTSOLN50	50 mL Vial	VIAL	IV DRIP
+Acetylcysteine 20%	MUCOM20	30mL Vial	VIAL	PO
+Levetiracetam	LEVE500	500mg Tablet	TAB	PO
+Heparin Flush CRRT (5000 Units/mL)	HEPA5I	5000 Units /mL- 1mL Vial	ml	IV
+Prismasate (B32 K2)	PRISMAB32K25000	5000 mL Bag	BAG	DIALYS
+D5W	D5W3000	3000 mL Bag	BAG	IV
+Sodium Chloride 3% (Hypertonic)	HYPNSCL3	500 mL Bag	ml	IV
+NS	NS3000	3000mL Bag	ml	IV
+Lorazepam	LORA20I	20mg/10mL Vial	ml	IV DRIP
+Epinephrine	EPI1I	1mg /1mL	AMP	IV DRIP
+Sterile Water	SW1000	1000mL Bag	BAG	IRR
+Solution	SOLU	XXX mL	ml	IV
+MethylPREDNISolone Sodium Succ	MPRED1I	1000mg Vial	VIAL	IV DRIP
+DopAmine	DOPA400PM	400mg Premix	BAG	IV DRIP
+Ampicillin-Sulbactam	UNAS3I	3g Vial	VIAL	IV
+CefTRIAXone	CEFX2F	2g Frozen Bag	BAG	IV
+Methadone HCl	METH10SY	10mg/1mL Syringe	SYR	IV
+Methadone HCl	METD10	10 mg Tab	TAB	PO
+Ibuprofen Suspension	IBU5S	20mg/mL Bulk	BTL	PO
+Metoclopramide	METO10L	10mg/10mL Cup	UDCUP	PO
+Sulfameth/Trimethoprim Suspension	BACT20L	800/160 : 20 mL UDCUP	UDCUP	NG
+Clindamycin Suspension	CLIN75L	75 mg / 5 mL - 100 mL Bottle	BTL	PO
+Pseudoephedrine HCl	PSEU30	30mg Tablet	TAB	PO
+Citalopram Hydrobromide	CITA20	20mg Tab	TAB	PO
+Dicloxacillin	DICL250	250 mg Cap	CAP	PO
+Methadone HCl	METD5	5mg Tablet	TAB	PO
+Ferrous Sulfate	FERR300L	300 mg / 5 mL Cup	UDCUP	PO
+Morphine Sulfate	MORPIM	10 mg Syringe	SYR	IV
+Fluconazole	FLUC200	200mg Tablet	TAB	PO
+Promethazine HCl	PROM25I	25mg/mL Amp	AMP	IV
+Propofol	PROP200IG	200mg/20mL Vial	VIAL	IV
+NS	NS500	500mL Bag	ml	IV DRIP
+Amphotericin B	AMP50I	50mg Vial	VIAL	IRR
+Nadolol	NADO20	20 mg Tab	TAB	PO
+Octreotide Acetate	OCTR0.1I	0.1 mg Amp	ml	IV DRIP
+Erythromycin	ERY1I	1000 mg Vial	mg	IV
+Octreotide Acetate	OCTR50I	50mcg/mL-1mL	ml	IV
+Ciprofloxacin	CIPR400PM	400mg PM Bag	BAG	IV
+Multivitamin IV	MVI10I	10mL Vial	VIAL	IV
+Sodium Polystyrene Sulfonate	KAYE15L	15g/60mL Bottle	BTL	PR
+Phytonadione	PHYT5	5mg Tab	TAB	PO
+Heparin Flush CRRT (5000 Units/mL)	HEPA5I	5000 Units / mL- 1mL Vial	ml	IV
+Heparin Flush 	HEP10I	1000 Units/ml- 10ml Vial	VIAL	IV
+Heparin CRRT	HEP10I	1000 Units/ml- 10ml Vial	VIAL	IV
+NS	NS150	150mL Bab	ml	IV
+AMP	AMP	SEND AMPULE	AMP	IV
+D5W	CIPROBASE	1 Bag	ml	IV
+Prismasate (B32 K2)	PRISMAB32K25000	5000 mL Bag	BAG	REPLACE
+Montelukast Sodium	MONT10	10mg Tablet	TAB	PO
+Heparin Flush Hickman (100 units/ml)	HEPA100SYR	100Units/mL-5mL Syringe	SYR	IV
+Fluticasone Propionate 110mcg	FLUT110HFA	12g Inhaler	INH	IH
+Paroxetine HCl	PARO10	10mg Tablet	TAB	PO
+Prednisone	PRED50	50mg Tab	TAB	PO
+Prednisone	PRED10	10mg Tablet	TAB	PO
+Fleet Phospho-Soda	FPS45L	45mL Bottle	BTL	PO
+Paroxetine HCl	PARO20	20mg Tablet	TAB	PO
+tucks	ANUS1O	1 oz Tube	TUBE	PR
+Lidocaine Jelly 2%	LID2J	5mL Urojet	TUBE	TP
+Acetaminophen	ACET325	325mg Tablet	TAB	PR
+D5W	LINEBASE	300ML BAG	BAG	IV
+Linezolid	LINE600I	600mg Premixed Bag	BAG	IV
+Fentanyl Patch	FENT75P	75mcg/hr Patch	PTCH	TP
+HYDROmorphone (Dilaudid)	HYD12.5PCA	12.5mg/50mL Syringe	SYR	IVPCA
+HYDROmorphone-HP	DILHP50I	50mg/5mL Amp	ml	IV DRIP
+Gentamicin	GENT120PM	120mg Premix	BAG	IV
+Isotonic Sodium Chloride	GENTBASE2	100ml Bag	ml	IV
+Gentamicin	GENT80PM	80mg Premix	BAG	IV
+Lisinopril	LISI5	5 mg Tab	TAB	PO
+Sevelamer	SEVE800	800mg Tablet	TAB	PO
+Isoniazid	ISON300	300 mg Tab	TAB	PO
+Nephrocaps	NEPH1	1 Capsule	CAP	PO
+Magnesium Sulfate	MAGS1I	1g/2mL Vial	VIAL	IV
+Midazolam	MIDA50I	50mg/10mL Vial	ml	IV DRIP
+Esmolol	ESMO2.5PM	2500mg Premix Bag	BAG	IV DRIP
+Esmolol	ESMO100I	100mg Vial	VIAL	IV BOLUS
+Epinephrine HCl	EPIS10I	1mg/10mL Syringe	SYR	IV
+Enalaprilat	ENAL25I	1.25 mg  / mL : 2 mL Vial	VIAL	IV
+Levothyroxine Sodium	LEVO175	175mcg Tablet	TAB	PO
+PNEUMOcoccal Vac Polyvalent	PNEU25I	25mcg/0.5mL Vial	VIAL	IM
+D5W	D5W150	150mL Bag	ml	IV DRIP
+NS (Glass Bottle)	NS250G	250mL Bottle	ml	IV DRIP
+Labetalol	LABE100I	100 mg / 20 mL Vial	VIAL	IV DRIP
+Ciprofloxacin IV	CIPR200I	200mg/20mL Vial	ml	IV
+Docusate Sodium	DOCU100L	100mg UD Cup	UDCUP	NG
+Sertraline	SERT50	50mg Tablet	TAB	PO
+Demeclocycline	DEME300	300MG TAB	TAB	ORAL
+OxycoDONE-Acetaminophen Elixir	ROXIOS	5mL Cup	UDCUP	NG
+OxycoDONE Liquid	OXYCO5L	5mg/5mL Cup	UDCUP	PO
+Sertraline	SERT100	100mg Tablet	TAB	J TUBE
+Clonazepam	CLON5	0.5mg Tablet	TAB	J TUBE
+5% Dextrose	D5W50	50mL Bag	mL	IV BOLUS
+5% Dextrose	D5W150	150mL Bag	mL	IV DRIP
+NS	ESMOB100	100ml Bag	mL	IV
+Clindamycin	CLIN9000I	150mg/mL-60mL Vial	mL	IV
+Amiodarone	AMIO150I	150mg/3mL Vial	VIAL	IV BOLUS
+Amiodarone	AMIO150I	150mg/3mL Vial	VIAL	IV DRIP
+Diltiazem	DILT500I	50mg/10mL Vial	VIAL	IV DRIP
+Amiodarone	AMIO150I	150mg/3mL Vial	VIAL	IV
+Esmolol	ESMO2PM	2000mg Premix Bag	BAG	IV
+Clonidine Patch 0.1 mg/24 hr	CLON1P	TTS-1;0.1mg/day Patch	PTCH	TD
+Furosemide	FURO20	20mg Tablet	TAB	NG
+Nitroglycerin SL	NTG3SL	0.3mg SL Tablet Bottle	TAB	SL
+Diltiazem	DILT500I	50mg/10mL Vial	VIAL	IV BOLUS
+Magnesium Oxide	MAGN400	400 mg Tab	TAB	PO
+Phytonadione	PHYT10I	10mg/mL Amp	AMP	SUBCUT
+Methylprednisolone	METH8	8mg Tablet	TAB	PO
+Heparin Flush (100 units/ml)	HEPA100SYR	100 Units/mL-5mL Syringe	SYR	IV
+Viokase-8	VIOK	1 Tab	TAB	PO
+Atenolol	ATEN50	50 mg Tab	TAB	PO
+Morphine Sulfate (Concentrated Oral Soln)	MORPCONC	20mg/1mL Conc. Oral Solution	SYR	SL
+Lorazepam	LORA1	1mg Tablet	TAB	SL
+Hyoscyamine	LEVS125	0.125 mg PO/SL Tablet	TAB	SL
+Prochlorperazine	PROC5	5 mg Tab	TAB	PO
+Alprazolam	ALPR25	0.25mg Tablet	TAB	PO
+DiphenhydrAMINE	DIPH25L	25mg/10mL Cup	UDCUP	PO
+DiphenhydrAMINE	DIPH25L	25mg/10mL Cup	UDCUP	OG
+Acetaminophen	ACET650L	650mg UD Cup	UDCUP	OG
+Bisacodyl	BISA5	5 mg Tab	TAB	OG
+Docusate Sodium (Liquid)	DOCU100L	100mg UD Cup	UDCUP	OG
+Senna	SENN5L	5ml Oral Syringe	SYR	OG
+MetFORMIN XR (Glucophage XR)	METF500XR	500mg Tab	TAB	PO
+Nitroglycerin	NITR20SYR	20MG/50ML SYR	SYR	IV DRIP
+Phenylephrine	PHEN12SYR	12 mg / 50 mL Syringe	SYR	IV DRIP
+CefazoLIN	CEFA10I	10g Bulk vial	g	IV
+Metoclopramide	METO10I	5mg/mL-2mL Vial	VIAL	IV
+Insulin	HUMA75/25I	75/25 Units/mL;10mL	VIAL	SC
+Artificial Tears Preserv. Free	REFRESH	0.3mL UD	DRP	BOTH EYES
+Cyproheptadine	CYPR4	4 mg Tab	TAB	PO
+Tolterodine	TOLT2	2mg Tablet	TAB	PO
+Acetaminophen (Liquid)	ACET650L	650mg UD Cup	UDCUP	PO/NG
+Ascorbic Acid (Liquid)	ASCO500L	Conc: 500 mg / 5 mL	mL	PO/NG
+Baclofen	BACL10	10mg Tablet	TAB	PO/NG
+Gabapentin	GABA300	300mg Capsule	CAP	PO/NG
+Glucagon	GLUC1I	1mg Vial	VIAL	IM
+Lansoprazole Oral Disintegrating Tab	LANS30ST	30mg SoluTab	TAB	PO/NG
+Levothyroxine Sodium	LEVO25	25mcg Tablet	TAB	PO/NG
+Morphine Sulfate (Oral Soln.)	MOR10L	10mg/5mL UDCUP	UDCUP	PO/NG
+Warfarin	WARF2	2mg Tablet	TAB	PO/NG
+Zinc Sulfate	ZINC220	220mg Capsule	CAP	PO/NG
+Insulin	GLAR100I	100 Units / mL - 10 mL Vial	VIAL	SC
+Fentanyl Patch	FENT100P	100mcg/hr Patch	PTCH	TP
+Morphine Sulfate	MORP5I	5 mg Vial	VIAL	IV
+Gabapentin	GABA250L	Conc = 50 mg / mL	mL	PO/NG
+Duloxetine	DULO30	30mg Capsule	CAP	PO
+Mirtazapine	MIRT15	15mg Tab	TAB	PO/NG
+Furosemide	FURO20	20mg Tablet	TAB	PO/NG
+Potassium Chloride (Powder)	KCL20P	20mEq Packet	PKT	NG
+0.9% Sodium Chloride	NS1000	1000mL Bag	mL	IV
+Levothyroxine Sodium	LEVO100I	100 mcg Vial	VIAL	IV
+Creon 12	CREON12	DR Capsule	CAP	PO
+Acetaminophen IV	ACET1000I	1000 mg / 100 mL Vial	VIAL	IV
+Capsaicin 0.025%	CAPS25C	2 oz. Tube	TUBE	TP
+Neutra-Phos	NEUT	Powder Packet	PKT	PO/NG
+Soln	ACETSOLN	100 mL Bottle	BTL	IV
+Fleet Enema	FLEETEN	1 Enema	BTL	PR
+Multivitamins	MVI	1 Tablet	TAB	PO/NG
+Mirtazapine	MIRT15SOL	15mg Soluble Tablet	TAB	PO/NG
+Potassium Chloride (Powder)	KCL20P	20mEq Packet	PKT	PO/NG
+Multivitamins	MULT5L	5mL Cup	UDCUP	PO/NG
+Insulin	HUMU100I	100 Units / mL - 10 mL Vial	VIAL	SC
+Warfarin	WARF1	1mg Tablet	TAB	PO/NG
+Sodium Bicarbo	NABC50I	50mEq Vial	VIAL	NG
+Acetaminophen	ACET325	325mg Tablet	TAB	PO/NG
+Acetaminophen	APAP500	500mg Tablet	TAB	PO/NG
+Levofloxacin	LEVO750	750 mg Tablet	TAB	PO/NG
+Ferrous Sulfate	FERR325	325 mg Tablet	TAB	PO/NG
+HYDROmorphone (Dilaudid)	HYDR2	2mg Tablet	TAB	PO/NG
+Pantoprazole	PANT40I	40 mg Vial	VIAL	IV
+Sodium Polystyrene Sulfonate	KAYE15L	15g/60mL Bottle	BTL	PO/NG
+Pancrelipase 5000	PANC5000	5,000-17,000-27,000 DR Capsule	CAP	PO
+Sodium Bicarbonate	SODI650	650mg Tab	TAB	PO/NG
+Acetaminophen	ACET650L	650mg UD Cup	UDCUP	PO/NG
+Warfarin	WARF0	Check with MD for Dose	dose	PO/NG
+Potassium Chloride	MICROK10	10mEq ER Tablet	TAB	PO
+Phosphorus	PHOS250	250 mg Tablet	TAB	PO
+Warfarin	WARF25	2.5mg Tablet	TAB	PO/NG
+Aspirin	ASA325	325mg Tablet	TAB	PO/NG
+Vitamin D	ERGO400T	400 Unit Tablet	TAB	PO/NG
+Warfarin	WARF5	5mg Tablet	TAB	PO/NG
+Lactated Ringers	LR1000	1000ml Bag	BAG	IV
+Bag	BAG50	50 mL Bag	BAG	IV
+Sterile Water	KCLBASE2	50 mL Bag	mL	IV
+5% Dextrose	HEPBASE	HEPARIN BASE	mL	IV
+CefePIME	CEFE1000I	1000 mg Vial	mg	IV
+Potassium Chloride	KCL20PM	20mEq/50mL Premix	mL	IV
+Neutra-Phos	NEUT	Powder Packet	PKT	NG
+Mirtazapine	MIRT15	15mg Tab	TAB	PO
+Gabapentin	GABA250L	250mg/5mL Solution	mL	PO
+NORepinephrine	NORE8/250	8 mg / 250 mL Premix Bag	BAG	IV DRIP
+Ascorbic Acid	ASCO500	500 mg Tab	TAB	PO/NG
+Ferrous Sulfate (Liquid)	FERR300L	300 mg / 5 mL Cup	UDCUP	PO/NG
+Docusate Sodium (Liquid)	DOCU100L	100mg UD Cup	UDCUP	PO/NG
+Senna	SENN187	1 Tablet	TAB	PO/NG
+Ciprofloxacin HCl	CIPR500	500mg Tab	TAB	PO/NG
+Paroxetine	PARO10L	10mg/5mL Suspension	mL	PO/NG
+Morphine Sulfate (Concentrated Oral Soln)	MORPCONC	20mg/1mL Conc. Oral Solution	SYR	PO
+0.45% Sodium Chloride	NS451000	1000mL Bag	mL	IV
+Morphine SR (MS Contin)	MSCO15	15mg Tab	TAB	PO
+Potassium Chloride	POTA20	20 mEq SR Tablet	TAB	NG
+Paroxetine	PARO30	30mg Tablet	TAB	PO
+5% Dextrose	NOREBASE	250 mL Bag	mL	IV DRIP
+PHENYLEPHrine	PHEN10I	10mg/1mL Vial	VIAL	IV DRIP
+Senna	SENN5L	5ml Oral Syringe	SYR	PO
+Morphine Sulfate IR	MOR10L	10mg/5mL UDCUP	UDCUP	PO
+Duloxetine	DULO20	20mg Capsule	CAP	PO
+Fentanyl Patch	FENT25P	25mcg/hr  Patch	PTCH	TP
+NS (Irrigation Bottle)	NS250B	250 mL Bottle	BTL	PR
+Iso-Osmotic Sodium Chloride	ISONACL	50ml Bag	mL	IV
+Vasopressin	VASO20I	20 Units / 1 mL Vial	mL	IV DRIP
+Ranitidine	RANI150	150mg Tablet	TAB	PO/NG
+Morphine Sulfate IR	MORP15	15mg Tab	TAB	PO/NG
+Magnesium Oxide	MAGO140	140mg Capsule	CAP	PO/NG
+Nystatin	NYST5L	500,000 Unit UDCUP	UDCUP	PO/NG
+Famotidine	PEPC20	20 mg Tablet	TAB	PO/NG
+Ranitidine	RANI150L	150mg UD Cup	UDCUP	PO/NG
+0.9% Sodium Chloride	NS100	100mL Bag	mL	IV BOLUS
+Potassium Chl 20 mEq / 1000 mL D5W	KCL20/1000D5W	1000 mL Bag	BAG	IV
+Pantoprazole	PANT40IVPB	40 mg Vial	VIAL	IV BOLUS
+Pantoprazole	PANT40IVPB	40 mg Vial	VIAL	IV DRIP
+Piperacillin-Tazobactam	ZOSY2.25I	2.25 g Frozen Bag	BAG	IV
+Heparin Sodium	HEPA10000/5I	10,000 Units / mL - 5 mL Vial	mL	IV
+Aluminum-Magnesium Hydrox.-Simethicone	MAAL30L	30 mL UDCup	UDCUP	PO/NG
+Levothyroxine Sodium	LEVO50	50mcg Tablet	TAB	PO/NG
+Metoprolol Tartrate	METO25	25mg Tablet	TAB	PO/NG
+traZODONE	TRAZ50	50mg Tablet	TAB	PO/NG
+Vancomycin Oral Liquid	VANC250L	250mg Oral Syringe	SYR	PO/NG
+Vancomycin Oral Liquid	VANC500L	500mg Oral Syringe	SYR	NG
+Influenza Virus Vaccine	INFL0.5LF	0.5 mL Syringe	SYR	IM
+Citalopram	CITA20	20mg Tablet	TAB	PO/NG
+Milk of Magnesia	MOM30L	30mL UD Cup	UDCUP	PO/NG
+Vancomycin Oral Liquid	VANC125L	125mg Oral Syringe	SYR	PO/NG
+Naloxone	NALO4I	0.4mg/1mL AMP	mL	IV
+Ascorbic Acid	ASCO500L	Conc: 500 mg / 5 mL	mL	PO/NG
+Tobramycin Sulfate	TOBR80I	40 mg / mL - 2 mL Vial	mL	IV
+Multiple Vitamins Liq.	MULT5L	5mL Cup	UDCUP	PO/NG
+Lidocaine Jelly 2%	LIDO2/5J	5mL Tube	TUBE	TP
+OxycoDONE Liquid	OXYCO5L	5mg/5mL Cup	UDCUP	PO/NG
+Senna	SENN5L	5ml Oral Syringe	SYR	PO/NG
+OxycoDONE (Immediate Release) 	OXYC5	5mg Tablet	TAB	PO/NG
+Spironolactone	SPIR100	100mg Tablet	TAB	PO
+Insulin	INRHI	10mL Vial	mL	SC
+Enalaprilat	ENAL25I	1.25mg/mL: 2mL Vial	VIAL	IV
+Guaifenesin-Dextromethorphan	GUAI10L	10mL Cup	UDCUP	PO
+Albuterol MDI	ALBU17H	17g Inhaler	INH	IH
+Nystatin-Triamcinolone Ointment	MYC30O	30g Tube	Appl	TP
+Enalapril Maleate	ENAL10	10 mg Tab	TAB	PO
+PredniSONE	PRED20	20 mg Tablet	TAB	NG
+Diltiazem	DILT90	90 mg Tab	TAB	PO
+Clonidine Patch 0.3 mg/24 hr	CLON3P	TTS-3;0.3mg/Day Patch	PTCH	TD
+NS	ESMOBASE	250ml Bag	mL	IV
+5% Dextrose	D5W25	25mL Bag	mL	IV
+Esmolol in Saline (Iso-osm)	ESMO2PM	2000mg Premix Bag	BAG	IV
+Esmolol	ESMO2.5PM	2500mg Premix Bag	BAG	IV
+Potassium Chl 40 mEq / 1000 mL D5W	KCL40/1000D5W	1000 mL Bag	BAG	IV
+Octreotide Acetate	OCTR0.1I	0.1 mg Amp	mL	IV DRIP
+CeftazIDIME	CEFT2I	2 g Vial	VIAL	IV
+Octreotide Acetate	OCTR50I	50mcg/mL-1mL	mL	IV
+Phenazopyridine HCl	PHEN100	100mg Tablet	TAB	PO
+Methylene Blue 1%	MBLU1I	1mL Amp	AMP	IR
+Desitin	DESI30O	30g Tube	TUBE	TP
+Potassium Chloride (Powder)	KCL20P	20mEq Packet	PKT	PO
+Haloperidol	HALO05	0.5 mg Tab	TAB	PO
+Olanzapine	OLAN10I	10mg Vial	VIAL	IM
+Naloxone	NALO4I	0.4mg/1mL Vial	mL	IV
+Lidocaine 2%	LIDPF2I	2ml Amp	AMP	SC
+LeVETiracetam	LEVE500	500mg Tablet	TAB	PO
+LeVETiracetam Solution	LEVE100L	100mg/mL Solution	mL	PO
+Succinylcholine	SUCC20I	200mg/10mL Vial	VIAL	IV
+Etomidate	ETOM2I	20mg/10mL Vial	AMP	IV
+Propofol	PROP200IG	200mg/20mL Vial	VIAL	IV BOLUS
+DiphenhydrAMINE	DIPH50I	50mg/mL Vial	VIAL	IV
+OxycoDONE-Acetaminophen Elixir	ROXIOS	5mL Cup	UDCUP	PO
+Epidural Bag	EPIDBAG250	250 mL Bag	BAG	ED
+HYDROmorphone P.F.	HYDR2PF	2000mcg/mL - 1mL Vial (Use this Package for Epidurals)	mL	ED
+Bupivacaine 0.1%	BUPI0.1EPD	250 mL Bag	BAG	ED
+Heparin Lock Flush	HEP1I	10 Units/mL- 10mL Vial	VIAL	IV
+Indomethacin	INDO25	25mg Capsule	CAP	PO
+Sulfameth/Trimethoprim DS	BACTDS	DS Tablet	TAB	PO
+Heparin Flush (10 units/ml)	HEP1I	10 Units/mL- 10mL Vial	VIAL	IV
+Ketorolac	KETR30I	30mg/mL Vial	VIAL	IV
+Heparin Flush CRRT (5000 Units/mL)	HEPA5I	5000 Units / mL- 1mL Vial	mL	IV
+Sodium CITRATE 4%	SODCIT3SYR	3mL Syringe	SYR	DWELL
+Heparin Flush (5000 Units/mL)	HEPA5I	5000 Units / mL- 1mL Vial	mL	DWELL
+Midodrine	MIDO25	2.5 mg Tab	TAB	PO
+Nystatin Cream	NYSTC	100KU/GM: 30 g Tube	TUBE	TP
+Risperidone	RISP1	1mg Tablet	TAB	PO
+Midodrine	MIDO5	5 mg Tab	TAB	PO
+sevelamer HYDROCHLORIDE	SEVE400	400mg Tablet	TAB	PO
+Ascorbic Acid	ASCO250	250 mg Tab	TAB	PO
+Phytonadione	PHYT2L	2 mg / 1 mL Oral Syringe	SYR	PO
+Prismasate (B22 K4)	PRISMAB22K45000	5000 mL Bag	BAG	DIALYS
+Prismasate (B22 K4)	PRISMAB22K45000	5000 mL Bag	BAG	REPLACE
+5% Dextrose	D5W150	150mL Bag	mL	IV
+Citrate Dextrose 3% (ACD-A) CRRT	ACD3/1000I	1000 mL Bag	BAG	DIALYS
+Norepinephrine	LEVO4I	4mg/4mL Amp	AMP	IV
+Epoetin Alfa	EPO4I	4000 Unit Vial	mL	SC
+Thiamine	THIAM100I	100mg/mL-2mL	mL	IV
+FoLIC Acid	FOLI5I	5mg/mL-10mL	mL	IV
+Cilostazol	CILOS100	100mg Tablet	TAB	ORAL
+Fosinopril	FOSI40	40mg Tab	TAB	ORAL
+CloniDINE	CATA1	0.1mg Tablet	TAB	PO
+D5W	DOBUBASE	1 Bag	mL	IV DRIP
+Rosuvastatin Calcium	ROSU5	5mg Tablet	TAB	PO
+Meclizine	MECL125	12.5 mg Tab	TAB	PO
+Imipramine	IMIP25	25mg Tab	TAB	PO
+Verapamil SR	VERA240SR	240 mg SR Tab	TAB	PO
+Nystatin Ointment	NYSTO	100KU/g Ointment	TUBE	TP
+D5LR	D5LR1000	1000mL Bag	mL	IV
+Divalproex (EXTended Release)	DIVA250ER	250 mg ER Tablet	TAB	PO
+Divalproex Sod. Sprinkles	DIVA125SP	125 mg Capsule	CAP	PO
+PredniSONE	PRED5	5 mg Tablet	TAB	PO
+Metoprolol Tartrate	METO50	50mg Tablet	TAB	NG
+Sulfameth/Trimethoprim SS	BACTSS	1 Tab	TAB	NG
+Vigamox	MOXI0.5ES	3 mL Dropper Btl	DBTL	OD
+Sodium Bicarbonate	SODI650	650mg Tab	TAB	PO
+Pentamidine-Inhalation	PENT300H	50mg/mL-6mL	VIAL	IH
+5% Dextrose	D5W	Bag	mL	IV
+Allopurinol	ALLO300	300mg Tab	TAB	PO
+Methadone	METD10	10 mg Tablet	TAB	PO
+Methadone	METD5	5 mg Tablet	TAB	PO
+Artificial Tears	REFRESH	0.3mL UD	DRP	RIGHT EYE
+Artificial Tear Ointment	ARTI3.5O	3.5 gm Tube	TUBE	LEFT EYE
+Erythromycin 0.5% Ophth Oint	ERYT0.5EO	1g UD Tube	TUBE	OS
+Alteplase (Catheter Clearance)	ALTE1/5I	1 mg / 5 mL Syringe	SYR	IV
+Polyethylene Glycol	GLYC17	17g Packet	PKT	PO/NG
+Citalopram Hydrobromide	CITA20	20mg Tablet	TAB	PO/NG
+Lactulose	LACT30L	20g/30mL Cup	UDCUP	PO/NG
+Erythromycin 0.5% Ophth Oint	ERYT0.5EO	1g UD Tube	TUBE	OD
+HYDROmorphone (Dilaudid)	HYDM4	4mg Tablet	TAB	PO/NG
+Collagenase Ointment	COLL30O	30g Tube	TUBE	TP
+Lidocaine 1%	LIDO15AM	5mL Ampul	AMP	SC
+Naloxone	NALO3L	3 mg Oral Syringe	SYR	PO
+Dapsone	DAPS100	100 mg Tab	TAB	PO
+Naloxone	NALO6L	6 mg Oral Syringe	SYR	NG
+Atovaquone Suspension	ATOV750S	750mg/5mL Packet	PKT	PO
+Methylnaltrexone	METH12I	12 mg / 0.6 mL Vial	VIAL	SUBCUT
+ChlorproMAZINE	THOR25	25mgTab	TAB	PO/NG
+ChlorproMAZINE	THOR25I	50mg/2mL Amp	AMP	IM
+Syringe (0.9% Sodium Chloride)	SYRINGENS	1 Syringe	mL	IV
+Collagenase Ointment	STLTP	15g Tube	TUBE	TP
+Ciprofloxacin HCl	CIPR500	500mg Tab	TAB	NG
+Doxycycline Hyclate	DOXY100C	100 mg Cap	CAP	PO
+Diazepam	DIAZ10I	10mg/2mL Syringe	SYR	IV
+Xopenex Neb	LEVA0.63L	0.63 mg/3mL Neb	NEB	IH
+Clotrimazole	CLOT10	10mg Troche	TROC	PO
+Dexamethasone	DEXAM20I	4mg/mL-5mL	VIAL	IV
+Alprazolam	ALPR1	1 mg Tab	TAB	SL
+Gabapentin	GABA250L	Conc = 50 mg / mL	mL	PO
+Magnesium Citrate	MAGCITL	300mL Bottle	BTL	PO
+Gelclair	GELCLAIR	15mL Packet	PKT	ORAL
+Pregabalin	PREG25	25 mg Capsule	CAP	PO
+Pregabalin	PREG75	75 mg Capsule	CAP	PO
+Syringe (Chemo)	CHEMOSYR	1 Syringe	mL	IV
+Syringe (Chemo)	CHEMOSYR	1 Syringe	mL	IT
+Iso-Osmotic Sodium Chloride	FLUCBASE2	200ml Bag	mL	IV
+Rituximab	RITU500I	10mg/mL-50mL	mL	IV
+Ondansetron	ONDA4I	2mg/mL-2mL	mL	IV
+Etoposide	ETOP100I	100 mg Vial	mL	IV
+Cyclophosphamide	CYCL1I	1000mg Vial	mL	IV
+DOXOrubicin	DOXO50I	2mg/mL-25mL	mL	IV
+VinCRIStine (Oncovin)	VINC2I	1mg/mL-2mL	mL	IV
+Leucovorin Calcium	LEU100I	100mg Vial	mL	IV
+Filgrastim	GCSF300I	300mcg Vial	mL	SC
+Methotrexate Sodium	METH1I	50mg/mL-20mL	mL	IV
+Alteplase (Catheter Clearance)	ALTE1/2I	1 mg / 2 mL Syringe	SYR	IV
+Cytarabine	CYTA100I	100mg Vial	mL	IT
+Hydrocortisone Na Succinate	HYDRO100I	100mg Vial (Powder)	VIAL	IT
+Octreotide Acetate	OCTR50I	50mcg/mL-1mL	mL	SC
+Acyclovir	ACY500I	50mg/mL-10mL	mL	PB
+Fluconazole	FLUCO400PM	400mg Premix Bag	BAG	PB
+Gammagard Liquid	GAMML10I	10 g / 100 mL Vial	mL	IV
+Filgrastim	GCSF480I	480mcg Vial	mL	SC
+Doxycycline Hyclate	DOXY100I	100 mg Vial	VIAL	IV
+Sulfameth/Trimethoprim	BACT10I	10mL Vial	mL	IV
+Bag	IVIGBAG	Bag	mL	IV
+*NF* Rasburicase	RASB1.5I	1.5mg Vial	VIAL	IV
+Dexamethasone Sod Phosphate	DEXA100I	10mg/mL 10mL Vial	mL	IV
+Mesna	MESNA1I	1g Vial	mL	IV
+Methotrexate Sodium P.F.	MTX50I	25mg/mL-2mL Vial	mL	IT
+Syringe	SYRINGE5	5 mL Syringe	SYR	IV
+Syringe	SYRG1	1 Syringe	mL	IV
+AMP	AMP	SEND AMPULE	AMP	SC
+5% Dextrose	D5W100	100mL Bag	mL	PB
+Iso-Osmotic Sodium Chloride	FLUCBASE2	200ml Bag	mL	PB
+Fluticasone Propionate NASAL	FLUT16N	16g NASAL SPRAY	AERO	NU
+Midazolam	MIDA2I	2mg/2mL Vial	VIAL	IV DRIP
+Fentanyl Citrate	FENT2I	100mcg/2mL Amp	mL	IV DRIP
+Methotrexate Sodium	METH1I	50mg/mL-20mL	ml	PB
+Sodium Bicarbonate	NABC50I	50mEq Vial	VIAL	PB
+Aluminum Hydroxide Suspension	ALUMI30L	30mL UD Cup	UDCUP	PO
+Bacitracin/Polymyxin B Sulfate Opht. Oint	POLYEO	3.5g Tube	Appl	RIGHT EYE
+Gabapentin	GABA400	400mg Capsule	CAP	PO
+Nortriptyline	NORT10	10 mg Cap	CAP	PO
+Tizanidine	TIZA2	2mg Tablet	TAB	PO
+Multivitamins W/minerals	MVITH	1 Tablet	TAB	PO
+Nortriptyline	NORT25	25 mg Cap	CAP	PO
+sodium bicar	NABC50I	50mEq Vial	VIAL	IV
+Leucovorin Calcium	LEUC5	5mg Tab	TAB	PO
+Leucovorin Calcium	LEUC25	25mg Tab	TAB	PO
+Caphosol	CAPH15L	2 Amp - 30mL Kit	KIT	ORAL
+Bupivacaine 0.75%	BUPI75I	0.75%; 30mL Amp	mL	SC
+D5W	D5W500	500mL Bag	ml	PB
+Potassium Chloride	POTA20	20 mEq SR Tablet	TAB	PO/NG
+Lactulose	LACT30L	20g/30mL Cup	UDCUP	NG
+Bacitracin Ointment	BACI15O	15g Tube	TUBE	TP
+FoLIC Acid	FOLI1I	1mg/0.2mL Syringe	SYR	IV
+Lidocaine 1%	LIDPF1I	2mL Amp	AMP	SC
+Rifaximin	RIFA200	200mg Tablet	TAB	NG
+Simethicone	SIME80	80mg Tablet	TAB	NG
+Thiamine	THIA100	100mg Tablet	TAB	NG
+Soln	FENTSOLN50	50 mL Vial	VIAL	IV
+5% Dextrose	D5W250	250mL Bag	mL	PB
+Fentanyl Citrate	FENT2.5I	2.5mg/50mL Vial	mL	IV
+Midazolam	MIDA50I	50mg/10mL Vial	mL	IV
+Phenylephrine	PHEN10I	10mg/1mL Vial	VIAL	PB
+Multivitamins	MULT5L	5mL Cup	UDCUP	NG
+FoLIC Acid	FOLI1	1 mg Tab	TAB	NG
+Midodrine	MIDO25	2.5 mg Tab	TAB	NG
+Octreotide Acetate	OCTR100I	100mcg/mL-1mL	mL	SC
+Megestrol Acetate	MEGE400L	400mg/10mL Oral Syringe	SYR	PO
+Octreotide Acetate	OCTR100I	100mcg/mL-1mL	mL	IV
+Octreotide Acetate	OCTR500S	500mcg-1mL Ampule	mL	IV
+Citalopram Hydrobromide	CITA20	20mg Tablet	TAB	PO
+Fluticasone-Salmeterol Diskus (100/50)	ADVA100/50H	100/50 mcg Diskus	DEV	IH
+Thioridazine HCl	THIO25	25 mg Tab	TAB	PO
+Sodium Chloride 3% (Hypertonic)	HYPNSCL3	500 mL Bag	mL	IV
+PrednisoLONE Acetate 1% Ophth. Susp.	PRED1ES	1% Ophthalmic Suspension	DBTL	LEFT EYE
+Diltiazem Extended-Release	TIAZ120	120 mg ER Cap	CAP	PO
+Levothyroxine Sodium	LEVO112	112mcg Tablet	TAB	PO
+MetRONIDAZOLE (FLagyl)	METR500	500 mg Tab	TAB	PO/NG
+PredniSONE	PRED10	10 mg Tablet	TAB	PO/NG
+Furosemide	FURO40	40mg Tablet	TAB	PO/NG
+Carbamazepine XR	CARB100XR	100mg CR Tablet	TAB	PO
+Clotrimazole Cream	CLOT130C	1% 30g Cream	TUBE	TP
+Fentanyl Patch	FENT12P	12 mcg/hr Patch	PTCH	TP
+LeVETiracetam	LEVE250T	250mgTablet	TAB	PO/NG
+Ny	NYST5L	500,000 Unit UDCUP	UDCUP	PO/NG
+Theophylline (Oral Solution)	THEO80LQ	80mg/15mL Elixir	mL	PO/NG
+Soln.	MANNBASE	500ml Bag	mL	IV
+NiCARdipine IV	NICA40PM	40 mg / 200 mL Premix Bag	BAG	IV DRIP
+Mannitol 20%	MANN100I	500mL Premix	mL	IV
+Lorazepam	LORA20I	20mg/10mL Vial	mL	IV DRIP
+0.83% Sodium Chloride	NICABAGSODCHL	200 mL Bag	BAG	IV DRIP
