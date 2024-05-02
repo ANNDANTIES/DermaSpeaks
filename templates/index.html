@@ -75,7 +75,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 wow fadeIn" data-wow-delay="0.1s">
         <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <h1 class="m-0 text-primary"><i class="far fa-hospital me-3"></i>Dermatalks</h1>
+            <h1 class="m-0 text-primary"><i class="far fa-hospital me-3"></i>DermaSpeaks</h1>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -84,7 +84,6 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="{{ url_for('index1') }}" class="nav-item nav-link active">Home</a>
                 <a href="{{ url_for('about') }}" class="nav-item nav-link">About</a>
-                <a href="{{ url_for('service') }}" class="nav-item nav-link">Service</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
@@ -97,7 +96,7 @@
                 </div>
                 <a href="{{ url_for('contact') }}" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Appointment<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="{{ url_for('appointment') }}" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Appointment<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -111,19 +110,19 @@
                 <div class="row g-4">
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">123</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">4</h2>
                             <p class="text-light mb-0">Expert Doctors</p>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">1234</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">5</h2>
                             <p class="text-light mb-0">Medical Staff</p>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">12345</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">100</h2>
                             <p class="text-light mb-0">Total Patients</p>
                         </div>
                     </div>
@@ -413,6 +412,7 @@
                                         <option value="1">Doctor 1</option>
                                         <option value="2">Doctor 2</option>
                                         <option value="3">Doctor 3</option>
+                                        <option value="4">Doctor 4</option>
                                     </select>
                                 </div>
                                 <div class="col-12 col-sm-6">

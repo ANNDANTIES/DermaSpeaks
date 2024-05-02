@@ -97,7 +97,7 @@
                 </div>
                 <a href="{{ url_for('contact') }}" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Appointment<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="{{ url_for('appointment') }}" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Appointment<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -111,19 +111,19 @@
                 <div class="row g-4">
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">123</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">4</h2>
                             <p class="text-light mb-0">Expert Doctors</p>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">1234</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">5</h2>
                             <p class="text-light mb-0">Medical Staff</p>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">12345</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">100</h2>
                             <p class="text-light mb-0">Total Patients</p>
                         </div>
                     </div>
@@ -143,54 +143,6 @@
     </div>
     <!-- Header End -->
 
-
-    <!-- About Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="d-flex flex-column">
-                        <img class="img-fluid rounded w-75 align-self-end" src="static/img/about-1.jpg" alt="">
-                        <img class="img-fluid rounded w-50 bg-white pt-3 pe-3" src="static/img/about-2.jpg" alt="" style="margin-top: -25%;">
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <p class="d-inline-block border rounded-pill py-1 px-4">About Us</p>
-                    <h1 class="mb-4">Why You Should Trust Us? Get Know About Us!</h1>
-                    <p>Welcome to DermaSpeaks, your one-stop destination for skin health and medical transcription resources. We are dedicated to providing valuable insights, information, and services to help you better understand and manage skin issues.
-                    <p>Our platform offers a unique approach to medical transcription. Users can easily input text, whether typed or copied, and our advanced Natural Language Processing (NLP) technology preprocesses the text, highlighting key elements such as personal information, medical details, and dermatological conditions. This preprocessing helps users organize and analyze their data more effectively.</p>
-                    <p>At DermaSpeaks, we understand the importance of accurate information and reliable resources when it comes to skin health. Our team is committed to delivering content that is informative, accurate, and up-to-date, ensuring that you have access to the latest insights and developments in dermatology.</p>
-                        
-                    <p>Explore our website to discover a wealth of information on skin health, medical transcription, and more. Join us in our mission to promote skin health and empower individuals with the knowledge they need to take control of their well-being.</p>
-                    <p class="mb-4">Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos.</p>
-                    <p><i class="far fa-check-circle text-primary me-3"></i>Quality health care</p>
-                    <p><i class="far fa-check-circle text-primary me-3"></i>Efficient diagnosis </p>
-                    <p><i class="far fa-check-circle text-primary me-3"></i>Easy research</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About End -->
-
-
-    <!-- Service Start -->
-    <!-- <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item bg-light rounded h-100 p-5">
-                        <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4" style="width: 100%; height: 65px;">
-                            <i class="fa fa-vials text-primary fs-4"></i>
-                        </div>
-                        <h4 class="mb-3">Dermatology</h4>
-                        <p class="mb-4">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.</p>
-                        <a class="btn" href=""><i class="fa fa-plus text-primary me-3"></i>Read More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
     <style>
         .custom-col {
             margin-left: 30px;
@@ -204,102 +156,28 @@
             text-align: center;
         }
     </style>
-    <div class="container feature px-lg-0" data-wow-delay="0.5s">
-       
-        <div class="service-item bg-light rounded h-100 p-5 mb-3 custom-h4">
-            <div class="d-inline-flex align-items-center justify-content-center bg-white rounded-circle mb-4 mb-3 custom-h4" style="width: 100%; height: 65px;">
-                <i class="fa fa-vials text-primary fs-4 mb-3 custom-h4"></i>
-            </div>
-
-            
-            <h4 class="mb-3 custom-h4">Dermatology</h4>
-            <p class="mb-4 mb-3 custom-h4">Dermatology is the branch of medicine focused on diagnosing and treating skin conditions, ranging from common ailments to complex diseases. Our application brings the expertise of dermatology to your fingertips, providing valuable insights and resources for skin health.</p>
-            <a class="btn mb-3 custom-h4" href=""><i class="fa fa-plus text-primary me-3 mb-3 custom-h4"></i>Read More</a>
-        </div>
-</div>
-    
-    <!-- Service End -->
 
 
-    <!-- Feature Start -->
-    <div class="container-fluid bg-primary overflow-hidden my-5 px-lg-0">
-        <div class="container feature px-lg-0">
-            <div class="row g-0 mx-lg-0">
-                <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="p-lg-5 ps-lg-0">
-                        <p class="d-inline-block border rounded-pill text-light py-1 px-4">Features</p>
-                        <h1 class="text-white mb-4">Why Choose Us</h1>
-                        <p class="text-white mb-4 pb-2">Our dedication to skin health, backed by expert knowledge in dermatology and medical transcription. We offer a user-friendly platform that preprocesses text, highlights key information, and classifies data into meaningful clusters, providing you with valuable insights for better skin care.</p>
-                        <div class="row g-4">
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light" style="width: 55px; height: 55px;">
-                                        <i class="fa fa-user-md text-primary"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="text-white mb-2">Consult</p>
-                                        <h5 class="text-white mb-0">Doctors</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light" style="width: 55px; height: 55px;">
-                                        <i class="fa fa-check text-primary"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="text-white mb-2">Quality</p>
-                                        <h5 class="text-white mb-0">Services</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light" style="width: 55px; height: 55px;">
-                                        <i class="fa fa-comment-medical text-primary"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="text-white mb-2">Positive</p>
-                                        <h5 class="text-white mb-0">Consultation</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-light" style="width: 55px; height: 55px;">
-                                        <i class="fa fa-headphones text-primary"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="text-white mb-2">24 Hours</p>
-                                        <h5 class="text-white mb-0">Support</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
-                    <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="/static/img/feature.jpg" style="object-fit: cover;" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Feature End -->
 
     <!-- Register-->
-    <h1>Registration Form</h1>
+    <h1 style="text-align: center;">Registration Form</h1>
     {% with messages = get_flashed_messages() %}
         {% if messages %}
-            <ul>
+            <ul  style="text-align: center;">
                 {% for message in messages %}
                     <li>{{ message }}</li>
                 {% endfor %}
             </ul>
         {% endif %}
     {% endwith %}
-    <form method="POST">
+    <style>
+        .login-form {
+            width: 300px; /* Set the width of the form */
+            margin: 0 auto; /* Center the form horizontally */
+            margin-top: 50px; /* Add margin from the top */
+        }
+    </style>
+    <form method="POST" class="login-form">
         {{ form.hidden_tag() }}
         <p>
             {{ form.email.label }}
@@ -315,7 +193,7 @@
                 <span style="color: red;">{{ error }}</span>
             {% endfor %}
         </p>
-        <p>{{ form.submit(class="btn btn-primary") }}</p>
+        <p style="text-align: center;" class="login-form">{{ form.submit(class="btn btn-primary") }}</p>
     </form>
 
     <!--Register-->

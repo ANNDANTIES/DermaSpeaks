@@ -92,12 +92,12 @@
                         <a href="{{ url_for('login') }}" class="dropdown-item">Patient Login</a>
                         <a href="{{ url_for('doclogin') }}" class="dropdown-item">Doctor Login</a>
                         <a href="{{ url_for('appointment') }}" class="dropdown-item">Appointment</a>
-                        <a href="{{ url_for('testimonials') }}" class="dropdown-item">Testimonial</a>
+                        <a href="{{ url_for('testimonial') }}" class="dropdown-item">Testimonial</a>
                     </div>
                 </div>
                 <a href="contact.html" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Appointment<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="{{ url_for('appointment') }}" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Appointment<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -111,19 +111,19 @@
                 <div class="row g-4">
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">123</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">4</h2>
                             <p class="text-light mb-0">Expert Doctors</p>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">1234</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">5</h2>
                             <p class="text-light mb-0">Medical Staff</p>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
-                            <h2 class="text-white mb-1" data-toggle="counter-up">12345</h2>
+                            <h2 class="text-white mb-1" data-toggle="counter-up">100</h2>
                             <p class="text-light mb-0">Total Patients</p>
                         </div>
                     </div>

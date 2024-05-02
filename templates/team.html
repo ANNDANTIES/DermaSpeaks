@@ -33,7 +33,7 @@
   
 </head>
 
-<body>
+<body  style="font-family: Georgia, serif; text-align: center,font-weight: bold, color: black;">
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -133,9 +133,9 @@
                         <a href="{{ url_for('testimonial') }}" class="dropdown-item">Testimonial</a>
                     </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                <a href="{{ url_for('contact') }}" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Appointment<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="{{ url_for('appointment') }}" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Appointment<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -162,9 +162,9 @@
                     </tr>
                     {% endfor %}
                 </table>
-                <div id="result"></div>
+                <div style="font-family: Georgia, serif; text-align: center,font-weight: bold, color: black;" id="result"></div>
                 <div id="wordcloud"></div>
-                <div id="cluster_text"></div>
+                <div  style="font-family: Georgia, serif; text-align: center,font-weight: bold, color: black;" id="cluster_text"></div>
                 <script>
                     function sendDetails(preprocessedText, clinicalDetail,dermaDetail,image) {
                         $.ajax({
@@ -173,14 +173,13 @@
                             data: {
                                 preprocessedText: preprocessedText,
                                 clinicalDetail: clinicalDetail,
-                                dermadetail: dermaDetail,
+                                dermaDetail: dermaDetail,
                                 image:image
                             },
                             success: function(response) {
                                 $('#result').html(response.html); // Assuming 'result' is the id of the element where you want to display the HTML
                                 $('#wordcloud').html(response.wordcloud); // Assuming 'wordcloud' is the id of the element where you want to display the wordcloud image
                                 $('#cluster_text').html(response.cluster_text); // Assuming 'cluster_text' is the id of the element where you want to display the cluster text
-                                alert('Details sent successfully!');
                                 alert('Details sent successfully!');
                             },
                             error: function(xhr, status, error) {
@@ -192,7 +191,6 @@
             </div>
         </div>
     </div>
-
     <!-- Patient View End -->
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
