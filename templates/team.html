@@ -157,7 +157,7 @@
                         <td>{{ patient.user_id }}</td>
                         <td>{{ patient.status }}</td>
                         <td>
-                            <button class="btn btn-primary btn-sm" onclick="sendDetails('{{ patient.preprocessed_text }}', '{{ patient.clinical_detail }}','{{patient.derma_detail}}','{{patient.image}}')">View Details</button>
+                            <button class="btn btn-primary btn-sm" onclick="sendDetails('{{ patient.preprocessed_text }}','{{patient.personal_detail}}', '{{ patient.clinical_detail }}','{{patient.derma_detail}}','{{patient.image}}')">View Details</button>
                         </td><
                     </tr>
                     {% endfor %}
@@ -166,12 +166,13 @@
                 <div id="wordcloud"></div>
                 <div  style="font-family: Georgia, serif; text-align: center,font-weight: bold, color: black;" id="cluster_text"></div>
                 <script>
-                    function sendDetails(preprocessedText, clinicalDetail,dermaDetail,image) {
+                    function sendDetails(preprocessedText,personalDetail,clinicalDetail,dermaDetail,image) {
                         $.ajax({
                             type: 'POST',
                             url: '/process_details',
                             data: {
                                 preprocessedText: preprocessedText,
+                                personalDetail:personalDetail,
                                 clinicalDetail: clinicalDetail,
                                 dermaDetail: dermaDetail,
                                 image:image
